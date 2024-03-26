@@ -2351,10 +2351,10 @@
     {
         "label": "Migration",
         "kind": 6,
-        "importPath": "example.mfa.migrations.0012_alter_user_keys_id.py",
-        "description": "example.mfa.migrations.0012_alter_user_keys_id.py",
+        "importPath": "example.mfa.migrations.0012_alter_user_keys_id",
+        "description": "example.mfa.migrations.0012_alter_user_keys_id",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"mfa\", \"0011_auto_20210530_0622\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"user_keys\",\n            name=\"id\",\n            field=models.BigAutoField(\n                auto_created=True, primary_key=True, serialize=False, verbose_name=\"ID\"",
-        "detail": "example.mfa.migrations.0012_alter_user_keys_id.py",
+        "detail": "example.mfa.migrations.0012_alter_user_keys_id",
         "documentation": {}
     },
     {
@@ -3044,10 +3044,10 @@
     {
         "label": "Migration",
         "kind": 6,
-        "importPath": "mfa.migrations.0012_alter_user_keys_id.py",
-        "description": "mfa.migrations.0012_alter_user_keys_id.py",
+        "importPath": "mfa.migrations.0012_alter_user_keys_id",
+        "description": "mfa.migrations.0012_alter_user_keys_id",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"mfa\", \"0011_auto_20210530_0622\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"user_keys\",\n            name=\"id\",\n            field=models.BigAutoField(\n                auto_created=True, primary_key=True, serialize=False, verbose_name=\"ID\"",
-        "detail": "mfa.migrations.0012_alter_user_keys_id.py",
+        "detail": "mfa.migrations.0012_alter_user_keys_id",
         "documentation": {}
     },
     {
