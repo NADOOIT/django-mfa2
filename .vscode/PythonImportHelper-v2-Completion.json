@@ -1,0 +1,3620 @@
+[
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "re_path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "PASSWORD_HASHERS",
+        "importPath": "django.conf.global_settings",
+        "description": "django.conf.global_settings",
+        "isExtraImport": true,
+        "detail": "django.conf.global_settings",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "TrustedDevice",
+        "importPath": "mfa",
+        "description": "mfa",
+        "isExtraImport": true,
+        "detail": "mfa",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMessage",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMessage",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "never_cache",
+        "importPath": "django.views.decorators.cache",
+        "description": "django.views.decorators.cache",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.cache",
+        "documentation": {}
+    },
+    {
+        "label": "never_cache",
+        "importPath": "django.views.decorators.cache",
+        "description": "django.views.decorators.cache",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.cache",
+        "documentation": {}
+    },
+    {
+        "label": "never_cache",
+        "importPath": "django.views.decorators.cache",
+        "description": "django.views.decorators.cache",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.cache",
+        "documentation": {}
+    },
+    {
+        "label": "never_cache",
+        "importPath": "django.views.decorators.cache",
+        "description": "django.views.decorators.cache",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.cache",
+        "documentation": {}
+    },
+    {
+        "label": "never_cache",
+        "importPath": "django.views.decorators.cache",
+        "description": "django.views.decorators.cache",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.cache",
+        "documentation": {}
+    },
+    {
+        "label": "never_cache",
+        "importPath": "django.views.decorators.cache",
+        "description": "django.views.decorators.cache",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.cache",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "datetime,random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime.random",
+        "description": "datetime.random",
+        "detail": "datetime.random",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "randint",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "randint",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Fido2Client",
+        "importPath": "fido2.client",
+        "description": "fido2.client",
+        "isExtraImport": true,
+        "detail": "fido2.client",
+        "documentation": {}
+    },
+    {
+        "label": "Fido2Client",
+        "importPath": "fido2.client",
+        "description": "fido2.client",
+        "isExtraImport": true,
+        "detail": "fido2.client",
+        "documentation": {}
+    },
+    {
+        "label": "Fido2Server",
+        "importPath": "fido2.server",
+        "description": "fido2.server",
+        "isExtraImport": true,
+        "detail": "fido2.server",
+        "documentation": {}
+    },
+    {
+        "label": "PublicKeyCredentialRpEntity",
+        "importPath": "fido2.server",
+        "description": "fido2.server",
+        "isExtraImport": true,
+        "detail": "fido2.server",
+        "documentation": {}
+    },
+    {
+        "label": "Fido2Server",
+        "importPath": "fido2.server",
+        "description": "fido2.server",
+        "isExtraImport": true,
+        "detail": "fido2.server",
+        "documentation": {}
+    },
+    {
+        "label": "PublicKeyCredentialRpEntity",
+        "importPath": "fido2.server",
+        "description": "fido2.server",
+        "isExtraImport": true,
+        "detail": "fido2.server",
+        "documentation": {}
+    },
+    {
+        "label": "AttestationObject",
+        "importPath": "fido2.webauthn",
+        "description": "fido2.webauthn",
+        "isExtraImport": true,
+        "detail": "fido2.webauthn",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticatorData",
+        "importPath": "fido2.webauthn",
+        "description": "fido2.webauthn",
+        "isExtraImport": true,
+        "detail": "fido2.webauthn",
+        "documentation": {}
+    },
+    {
+        "label": "CollectedClientData",
+        "importPath": "fido2.webauthn",
+        "description": "fido2.webauthn",
+        "isExtraImport": true,
+        "detail": "fido2.webauthn",
+        "documentation": {}
+    },
+    {
+        "label": "AttestedCredentialData",
+        "importPath": "fido2.webauthn",
+        "description": "fido2.webauthn",
+        "isExtraImport": true,
+        "detail": "fido2.webauthn",
+        "documentation": {}
+    },
+    {
+        "label": "AttestationObject",
+        "importPath": "fido2.webauthn",
+        "description": "fido2.webauthn",
+        "isExtraImport": true,
+        "detail": "fido2.webauthn",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticatorData",
+        "importPath": "fido2.webauthn",
+        "description": "fido2.webauthn",
+        "isExtraImport": true,
+        "detail": "fido2.webauthn",
+        "documentation": {}
+    },
+    {
+        "label": "CollectedClientData",
+        "importPath": "fido2.webauthn",
+        "description": "fido2.webauthn",
+        "isExtraImport": true,
+        "detail": "fido2.webauthn",
+        "documentation": {}
+    },
+    {
+        "label": "AttestedCredentialData",
+        "importPath": "fido2.webauthn",
+        "description": "fido2.webauthn",
+        "isExtraImport": true,
+        "detail": "fido2.webauthn",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "simplejson",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "simplejson",
+        "description": "simplejson",
+        "detail": "simplejson",
+        "documentation": {}
+    },
+    {
+        "label": "cbor",
+        "importPath": "fido2",
+        "description": "fido2",
+        "isExtraImport": true,
+        "detail": "fido2",
+        "documentation": {}
+    },
+    {
+        "label": "cbor",
+        "importPath": "fido2",
+        "description": "fido2",
+        "isExtraImport": true,
+        "detail": "fido2",
+        "documentation": {}
+    },
+    {
+        "label": "websafe_decode",
+        "importPath": "fido2.utils",
+        "description": "fido2.utils",
+        "isExtraImport": true,
+        "detail": "fido2.utils",
+        "documentation": {}
+    },
+    {
+        "label": "websafe_encode",
+        "importPath": "fido2.utils",
+        "description": "fido2.utils",
+        "isExtraImport": true,
+        "detail": "fido2.utils",
+        "documentation": {}
+    },
+    {
+        "label": "websafe_decode",
+        "importPath": "fido2.utils",
+        "description": "fido2.utils",
+        "isExtraImport": true,
+        "detail": "fido2.utils",
+        "documentation": {}
+    },
+    {
+        "label": "websafe_encode",
+        "importPath": "fido2.utils",
+        "description": "fido2.utils",
+        "isExtraImport": true,
+        "detail": "fido2.utils",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "RequestContext",
+        "importPath": "django.template.context",
+        "description": "django.template.context",
+        "isExtraImport": true,
+        "detail": "django.template.context",
+        "documentation": {}
+    },
+    {
+        "label": "RequestContext",
+        "importPath": "django.template.context",
+        "description": "django.template.context",
+        "isExtraImport": true,
+        "detail": "django.template.context",
+        "documentation": {}
+    },
+    {
+        "label": "RequestContext",
+        "importPath": "django.template.context",
+        "description": "django.template.context",
+        "isExtraImport": true,
+        "detail": "django.template.context",
+        "documentation": {}
+    },
+    {
+        "label": "RequestContext",
+        "importPath": "django.template.context",
+        "description": "django.template.context",
+        "isExtraImport": true,
+        "detail": "django.template.context",
+        "documentation": {}
+    },
+    {
+        "label": "user_agents",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "user_agents",
+        "description": "user_agents",
+        "detail": "user_agents",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "user_agents",
+        "description": "user_agents",
+        "isExtraImport": true,
+        "detail": "user_agents",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "user_agents",
+        "description": "user_agents",
+        "isExtraImport": true,
+        "detail": "user_agents",
+        "documentation": {}
+    },
+    {
+        "label": "begin_registration",
+        "importPath": "u2flib_server.u2f",
+        "description": "u2flib_server.u2f",
+        "isExtraImport": true,
+        "detail": "u2flib_server.u2f",
+        "documentation": {}
+    },
+    {
+        "label": "begin_authentication",
+        "importPath": "u2flib_server.u2f",
+        "description": "u2flib_server.u2f",
+        "isExtraImport": true,
+        "detail": "u2flib_server.u2f",
+        "documentation": {}
+    },
+    {
+        "label": "complete_registration",
+        "importPath": "u2flib_server.u2f",
+        "description": "u2flib_server.u2f",
+        "isExtraImport": true,
+        "detail": "u2flib_server.u2f",
+        "documentation": {}
+    },
+    {
+        "label": "complete_authentication",
+        "importPath": "u2flib_server.u2f",
+        "description": "u2flib_server.u2f",
+        "isExtraImport": true,
+        "detail": "u2flib_server.u2f",
+        "documentation": {}
+    },
+    {
+        "label": "begin_registration",
+        "importPath": "u2flib_server.u2f",
+        "description": "u2flib_server.u2f",
+        "isExtraImport": true,
+        "detail": "u2flib_server.u2f",
+        "documentation": {}
+    },
+    {
+        "label": "begin_authentication",
+        "importPath": "u2flib_server.u2f",
+        "description": "u2flib_server.u2f",
+        "isExtraImport": true,
+        "detail": "u2flib_server.u2f",
+        "documentation": {}
+    },
+    {
+        "label": "complete_registration",
+        "importPath": "u2flib_server.u2f",
+        "description": "u2flib_server.u2f",
+        "isExtraImport": true,
+        "detail": "u2flib_server.u2f",
+        "documentation": {}
+    },
+    {
+        "label": "complete_authentication",
+        "importPath": "u2flib_server.u2f",
+        "description": "u2flib_server.u2f",
+        "isExtraImport": true,
+        "detail": "u2flib_server.u2f",
+        "documentation": {}
+    },
+    {
+        "label": "x509",
+        "importPath": "cryptography",
+        "description": "cryptography",
+        "isExtraImport": true,
+        "detail": "cryptography",
+        "documentation": {}
+    },
+    {
+        "label": "x509",
+        "importPath": "cryptography",
+        "description": "cryptography",
+        "isExtraImport": true,
+        "detail": "cryptography",
+        "documentation": {}
+    },
+    {
+        "label": "default_backend",
+        "importPath": "cryptography.hazmat.backends",
+        "description": "cryptography.hazmat.backends",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.backends",
+        "documentation": {}
+    },
+    {
+        "label": "default_backend",
+        "importPath": "cryptography.hazmat.backends",
+        "description": "cryptography.hazmat.backends",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.backends",
+        "documentation": {}
+    },
+    {
+        "label": "Encoding",
+        "importPath": "cryptography.hazmat.primitives.serialization",
+        "description": "cryptography.hazmat.primitives.serialization",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.serialization",
+        "documentation": {}
+    },
+    {
+        "label": "Encoding",
+        "importPath": "cryptography.hazmat.primitives.serialization",
+        "description": "cryptography.hazmat.primitives.serialization",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.serialization",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "pyotp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyotp",
+        "description": "pyotp",
+        "detail": "pyotp",
+        "documentation": {}
+    },
+    {
+        "label": "verify",
+        "importPath": "mfa.views",
+        "description": "mfa.views",
+        "isExtraImport": true,
+        "detail": "mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "goto",
+        "importPath": "mfa.views",
+        "description": "mfa.views",
+        "isExtraImport": true,
+        "detail": "mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "verify",
+        "importPath": "mfa.views",
+        "description": "mfa.views",
+        "isExtraImport": true,
+        "detail": "mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "goto",
+        "importPath": "mfa.views",
+        "description": "mfa.views",
+        "isExtraImport": true,
+        "detail": "mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.core.urlresolvers",
+        "description": "django.core.urlresolvers",
+        "isExtraImport": true,
+        "detail": "django.core.urlresolvers",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.core.urlresolvers",
+        "description": "django.core.urlresolvers",
+        "isExtraImport": true,
+        "detail": "django.core.urlresolvers",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "PBKDF2PasswordHasher",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "PBKDF2PasswordHasher",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "importlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib",
+        "description": "importlib",
+        "detail": "importlib",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "loginView",
+        "kind": 2,
+        "importPath": "example.example.auth",
+        "description": "example.example.auth",
+        "peekOfCode": "def loginView(request):\n    context={}\n    if request.method==\"POST\":\n        username=request.POST[\"username\"]\n        password=request.POST[\"password\"]\n        user=authenticate(username=username,password=password)\n        if user:\n            from mfa.helpers import has_mfa\n            res = has_mfa(username = username, request = request)  # has_mfa returns false or HttpResponseRedirect\n            if res:",
+        "detail": "example.example.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_session",
+        "kind": 2,
+        "importPath": "example.example.auth",
+        "description": "example.example.auth",
+        "peekOfCode": "def create_session(request,username):\n    user=User.objects.get(username=username)\n    user.backend='django.contrib.auth.backends.ModelBackend'\n    login(request, user)\n    return HttpResponseRedirect(reverse('home'))\ndef logoutView(request):\n    logout(request)\n    return  render(request,\"logout.html\",{})",
+        "detail": "example.example.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logoutView",
+        "kind": 2,
+        "importPath": "example.example.auth",
+        "description": "example.example.auth",
+        "peekOfCode": "def logoutView(request):\n    logout(request)\n    return  render(request,\"logout.html\",{})",
+        "detail": "example.example.auth",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '#9)q!_i3@pr-^3oda(e^3$x!kq3b4f33#5l@+=+&vuz+p6gb3g'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "SECRET_KEY = '#9)q!_i3@pr-^3oda(e^3$x!kq3b4f33#5l@+=+&vuz+p6gb3g'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'mfa',",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'mfa',\n    'sslserver'\n]",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'example.urls'",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "ROOT_URLCONF = 'example.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR ,'example','templates' )],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR ,'example','templates' )],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'example.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': 'test_db',\n    }\n}\n# Password validation",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': 'test_db',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/2.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_URL = '/static/'\n#STATIC_ROOT=(os.path.join(BASE_DIR,'static'))\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,'static')]",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_URL = '/static/'\n#STATIC_ROOT=(os.path.join(BASE_DIR,'static'))\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,'static')]\nLOGIN_URL=\"/auth/login\"",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_URL = '/static/'\n#STATIC_ROOT=(os.path.join(BASE_DIR,'static'))\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,'static')]\nLOGIN_URL=\"/auth/login\"\nEMAIL_FROM='Test App'",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_URL = '/static/'\n#STATIC_ROOT=(os.path.join(BASE_DIR,'static'))\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,'static')]\nLOGIN_URL=\"/auth/login\"\nEMAIL_FROM='Test App'\nEMAIL_HOST=\"smtp.gmail.com\"",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_URL = '/static/'\n#STATIC_ROOT=(os.path.join(BASE_DIR,'static'))\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,'static')]\nLOGIN_URL=\"/auth/login\"\nEMAIL_FROM='Test App'\nEMAIL_HOST=\"smtp.gmail.com\"\nEMAIL_PORT=587",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\n#STATIC_ROOT=(os.path.join(BASE_DIR,'static'))\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,'static')]\nLOGIN_URL=\"/auth/login\"\nEMAIL_FROM='Test App'\nEMAIL_HOST=\"smtp.gmail.com\"\nEMAIL_PORT=587\nEMAIL_HOST_USER=\"\"\nEMAIL_HOST_PASSWORD=''\nEMAIL_USE_TLS=True",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MFA_ALWAYS_GO_TO_LAST_METHOD",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "MFA_ALWAYS_GO_TO_LAST_METHOD = True\nMFA_ENFORCE_RECOVERY_METHOD = True\nMFA_RENAME_METHODS = {\"RECOVERY\":\"Backup Codes\",\"FIDO2\":\"Biometric Authentication\"}\nPASSWORD_HASHERS = DEFAULT_PASSWORD_HASHERS #Comment if PASSWORD_HASHER already set\nPASSWORD_HASHERS += ['mfa.recovery.Hash']\nRECOVERY_ITERATION = 1 #Number of iteration for recovery code, higher is more secure, but uses more resources for generation and check...\nTOKEN_ISSUER_NAME=\"PROJECT_NAME\"      #TOTP Issuer name\nU2F_APPID=\"https://localhost:9000\"    #URL For U2F\nFIDO_SERVER_ID=\"localhost\"      # Server rp id for FIDO2, it the full domain of your project\nFIDO_SERVER_NAME=\"TestApp\"",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MFA_ENFORCE_RECOVERY_METHOD",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "MFA_ENFORCE_RECOVERY_METHOD = True\nMFA_RENAME_METHODS = {\"RECOVERY\":\"Backup Codes\",\"FIDO2\":\"Biometric Authentication\"}\nPASSWORD_HASHERS = DEFAULT_PASSWORD_HASHERS #Comment if PASSWORD_HASHER already set\nPASSWORD_HASHERS += ['mfa.recovery.Hash']\nRECOVERY_ITERATION = 1 #Number of iteration for recovery code, higher is more secure, but uses more resources for generation and check...\nTOKEN_ISSUER_NAME=\"PROJECT_NAME\"      #TOTP Issuer name\nU2F_APPID=\"https://localhost:9000\"    #URL For U2F\nFIDO_SERVER_ID=\"localhost\"      # Server rp id for FIDO2, it the full domain of your project\nFIDO_SERVER_NAME=\"TestApp\"",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MFA_RENAME_METHODS",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "MFA_RENAME_METHODS = {\"RECOVERY\":\"Backup Codes\",\"FIDO2\":\"Biometric Authentication\"}\nPASSWORD_HASHERS = DEFAULT_PASSWORD_HASHERS #Comment if PASSWORD_HASHER already set\nPASSWORD_HASHERS += ['mfa.recovery.Hash']\nRECOVERY_ITERATION = 1 #Number of iteration for recovery code, higher is more secure, but uses more resources for generation and check...\nTOKEN_ISSUER_NAME=\"PROJECT_NAME\"      #TOTP Issuer name\nU2F_APPID=\"https://localhost:9000\"    #URL For U2F\nFIDO_SERVER_ID=\"localhost\"      # Server rp id for FIDO2, it the full domain of your project\nFIDO_SERVER_NAME=\"TestApp\"",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "PASSWORD_HASHERS",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "PASSWORD_HASHERS = DEFAULT_PASSWORD_HASHERS #Comment if PASSWORD_HASHER already set\nPASSWORD_HASHERS += ['mfa.recovery.Hash']\nRECOVERY_ITERATION = 1 #Number of iteration for recovery code, higher is more secure, but uses more resources for generation and check...\nTOKEN_ISSUER_NAME=\"PROJECT_NAME\"      #TOTP Issuer name\nU2F_APPID=\"https://localhost:9000\"    #URL For U2F\nFIDO_SERVER_ID=\"localhost\"      # Server rp id for FIDO2, it the full domain of your project\nFIDO_SERVER_NAME=\"TestApp\"",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "RECOVERY_ITERATION",
+        "kind": 5,
+        "importPath": "example.example.settings",
+        "description": "example.example.settings",
+        "peekOfCode": "RECOVERY_ITERATION = 1 #Number of iteration for recovery code, higher is more secure, but uses more resources for generation and check...\nTOKEN_ISSUER_NAME=\"PROJECT_NAME\"      #TOTP Issuer name\nU2F_APPID=\"https://localhost:9000\"    #URL For U2F\nFIDO_SERVER_ID=\"localhost\"      # Server rp id for FIDO2, it the full domain of your project\nFIDO_SERVER_NAME=\"TestApp\"",
+        "detail": "example.example.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "example.example.urls",
+        "description": "example.example.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('mfa/', include('mfa.urls')),\n    path('auth/login',auth.loginView,name=\"login\"),\n    path('auth/logout',auth.logoutView,name=\"logout\"),\n    path('devices/add/', TrustedDevice.add,name=\"add_trusted_device\"),\n    re_path('^$',views.home,name='home'),\n    path('registered/',views.registered,name='registered')\n]",
+        "detail": "example.example.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "example.example.views",
+        "description": "example.example.views",
+        "peekOfCode": "def home(request):\n    return render(request,\"home.html\",{})\n@login_required()\ndef registered(request):\n    return render(request,\"home.html\",{\"registered\":True})",
+        "detail": "example.example.views",
+        "documentation": {}
+    },
+    {
+        "label": "registered",
+        "kind": 2,
+        "importPath": "example.example.views",
+        "description": "example.example.views",
+        "peekOfCode": "def registered(request):\n    return render(request,\"home.html\",{\"registered\":True})",
+        "detail": "example.example.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "example.example.wsgi",
+        "description": "example.example.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "example.example.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "example.mfa.migrations.0001_initial",
+        "description": "example.mfa.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User_Keys',\n            fields=[\n                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),\n                ('username', models.CharField(max_length=50)),\n                ('secret_key', models.CharField(max_length=15)),",
+        "detail": "example.mfa.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "example.mfa.migrations.0002_user_keys_key_type",
+        "description": "example.mfa.migrations.0002_user_keys_key_type",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user_keys',\n            name='key_type',\n            field=models.CharField(default=b'TOTP', max_length=25),\n        ),",
+        "detail": "example.mfa.migrations.0002_user_keys_key_type",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "example.mfa.migrations.0003_auto_20181114_2159",
+        "description": "example.mfa.migrations.0003_auto_20181114_2159",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0002_user_keys_key_type'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user_keys',\n            name='secret_key',\n            field=models.CharField(max_length=32),\n        ),",
+        "detail": "example.mfa.migrations.0003_auto_20181114_2159",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "example.mfa.migrations.0004_user_keys_enabled",
+        "description": "example.mfa.migrations.0004_user_keys_enabled",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0003_auto_20181114_2159'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user_keys',\n            name='enabled',\n            field=models.BooleanField(default=True),\n        ),",
+        "detail": "example.mfa.migrations.0004_user_keys_enabled",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "example.mfa.migrations.0005_auto_20181115_2014",
+        "description": "example.mfa.migrations.0005_auto_20181115_2014",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0004_user_keys_enabled'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='user_keys',\n            name='secret_key',\n        ),\n        migrations.AddField(",
+        "detail": "example.mfa.migrations.0005_auto_20181115_2014",
+        "documentation": {}
+    },
+    {
+        "label": "modify_json",
+        "kind": 2,
+        "importPath": "example.mfa.migrations.0005_auto_20181115_2014",
+        "description": "example.mfa.migrations.0005_auto_20181115_2014",
+        "peekOfCode": "def modify_json(apps, schema_editor):\n    from django.conf import settings\n    if \"mysql\" in settings.DATABASES.get(\"default\", {}).get(\"engine\", \"\"):\n        migrations.RunSQL(\"alter table mfa_user_keys modify column properties json;\")\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0004_user_keys_enabled'),\n    ]\n    operations = [\n        migrations.RemoveField(",
+        "detail": "example.mfa.migrations.0005_auto_20181115_2014",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "example.mfa.migrations.0006_trusted_devices",
+        "description": "example.mfa.migrations.0006_trusted_devices",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0005_auto_20181115_2014'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Trusted_Devices',\n            fields=[\n                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),\n                ('signature', models.CharField(max_length=255)),",
+        "detail": "example.mfa.migrations.0006_trusted_devices",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "example.mfa.migrations.0007_auto_20181230_1549",
+        "description": "example.mfa.migrations.0007_auto_20181230_1549",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0006_trusted_devices'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='Trusted_Devices',\n        ),\n        migrations.AddField(\n            model_name='user_keys',",
+        "detail": "example.mfa.migrations.0007_auto_20181230_1549",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "example.mfa.migrations.0008_user_keys_last_used",
+        "description": "example.mfa.migrations.0008_user_keys_last_used",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0007_auto_20181230_1549'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user_keys',\n            name='last_used',\n            field=models.DateTimeField(default=None, null=True, blank=True),\n        ),",
+        "detail": "example.mfa.migrations.0008_user_keys_last_used",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "example.mfa.migrations.0009_user_keys_owned_by_enterprise",
+        "description": "example.mfa.migrations.0009_user_keys_owned_by_enterprise",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0008_user_keys_last_used'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user_keys',\n            name='owned_by_enterprise',\n            field=models.NullBooleanField(default=None),\n        ),",
+        "detail": "example.mfa.migrations.0009_user_keys_owned_by_enterprise",
+        "documentation": {}
+    },
+    {
+        "label": "update_owned_by_enterprise",
+        "kind": 2,
+        "importPath": "example.mfa.migrations.0009_user_keys_owned_by_enterprise",
+        "description": "example.mfa.migrations.0009_user_keys_owned_by_enterprise",
+        "peekOfCode": "def update_owned_by_enterprise(apps, schema_editor):\n    user_keys = apps.get_model('mfa', 'user_keys')\n    user_keys.objects.filter(key_type='FIDO2').update(owned_by_enterprise=getattr(settings,\"MFA_OWNED_BY_ENTERPRISE\",False))\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0008_user_keys_last_used'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user_keys',",
+        "detail": "example.mfa.migrations.0009_user_keys_owned_by_enterprise",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "example.mfa.migrations.0010_auto_20201110_0557",
+        "description": "example.mfa.migrations.0010_auto_20201110_0557",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0009_user_keys_owned_by_enterprise'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user_keys',\n            name='key_type',\n            field=models.CharField(default='TOTP', max_length=25),\n        ),",
+        "detail": "example.mfa.migrations.0010_auto_20201110_0557",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "example.mfa.migrations.0011_auto_20210530_0622",
+        "description": "example.mfa.migrations.0011_auto_20210530_0622",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0010_auto_20201110_0557'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user_keys',\n            name='owned_by_enterprise',\n            field=models.BooleanField(blank=True, default=None, null=True),\n        ),",
+        "detail": "example.mfa.migrations.0011_auto_20210530_0622",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "example.mfa.migrations.0012_alter_user_keys_id.py",
+        "description": "example.mfa.migrations.0012_alter_user_keys_id.py",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"mfa\", \"0011_auto_20210530_0622\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"user_keys\",\n            name=\"id\",\n            field=models.BigAutoField(\n                auto_created=True, primary_key=True, serialize=False, verbose_name=\"ID\"",
+        "detail": "example.mfa.migrations.0012_alter_user_keys_id.py",
+        "documentation": {}
+    },
+    {
+        "label": "send",
+        "kind": 2,
+        "importPath": "example.mfa.Common",
+        "description": "example.mfa.Common",
+        "peekOfCode": "def send(to,subject,body):\n    from_email_address = settings.EMAIL_HOST_USER\n    if '@' not in from_email_address:\n        from_email_address = settings.DEFAULT_FROM_EMAIL\n    From = \"%s <%s>\" % (settings.EMAIL_FROM, from_email_address)\n    email = EmailMessage(subject,body,From,to)\n    email.content_subtype = \"html\"\n    return email.send(False)\ndef get_redirect_url():\n    return {\"redirect_html\": reverse(getattr(settings, 'MFA_REDIRECT_AFTER_REGISTRATION', 'mfa_home')),",
+        "detail": "example.mfa.Common",
+        "documentation": {}
+    },
+    {
+        "label": "get_redirect_url",
+        "kind": 2,
+        "importPath": "example.mfa.Common",
+        "description": "example.mfa.Common",
+        "peekOfCode": "def get_redirect_url():\n    return {\"redirect_html\": reverse(getattr(settings, 'MFA_REDIRECT_AFTER_REGISTRATION', 'mfa_home')),\n            \"reg_success_msg\":getattr(settings,\"MFA_SUCCESS_REGISTRATION_MSG\")}",
+        "detail": "example.mfa.Common",
+        "documentation": {}
+    },
+    {
+        "label": "sendEmail",
+        "kind": 2,
+        "importPath": "example.mfa.Email",
+        "description": "example.mfa.Email",
+        "peekOfCode": "def sendEmail(request,username,secret):\n    \"\"\"Send Email to the user after rendering `mfa_email_token_template`\"\"\"\n    from django.contrib.auth import get_user_model\n    User = get_user_model()\n    key = getattr(User, 'USERNAME_FIELD', 'username')\n    kwargs = {key: username}\n    user = User.objects.get(**kwargs)\n    res=render(request,\"mfa_email_token_template.html\",{\"request\":request,\"user\":user,'otp':secret})\n    return send([user.email],\"OTP\", res.content.decode())\n@never_cache",
+        "detail": "example.mfa.Email",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "example.mfa.Email",
+        "description": "example.mfa.Email",
+        "peekOfCode": "def start(request):\n    \"\"\"Start adding email as a 2nd factor\"\"\"\n    context = csrf(request)\n    if request.method == \"POST\":\n        if request.session[\"email_secret\"] == request.POST[\"otp\"]:  #if successful\n            uk=User_Keys()\n            uk.username=request.user.username\n            uk.key_type=\"Email\"\n            uk.enabled=1\n            uk.save()",
+        "detail": "example.mfa.Email",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 2,
+        "importPath": "example.mfa.Email",
+        "description": "example.mfa.Email",
+        "peekOfCode": "def auth(request):\n    \"\"\"Authenticating the user by email.\"\"\"\n    context=csrf(request)\n    if request.method==\"POST\":\n        if request.session[\"email_secret\"]==request.POST[\"otp\"].strip():\n            uk = User_Keys.objects.get(username=request.session[\"base_username\"], key_type=\"Email\")\n            mfa = {\"verified\": True, \"method\": \"Email\",\"id\":uk.id}\n            if getattr(settings, \"MFA_RECHECK\", False):\n                mfa[\"next_check\"] = datetime.datetime.timestamp(datetime.datetime.now() + datetime.timedelta(\n                    seconds = random.randint(settings.MFA_RECHECK_MIN, settings.MFA_RECHECK_MAX)))",
+        "detail": "example.mfa.Email",
+        "documentation": {}
+    },
+    {
+        "label": "recheck",
+        "kind": 2,
+        "importPath": "example.mfa.FIDO2",
+        "description": "example.mfa.FIDO2",
+        "peekOfCode": "def recheck(request):\n    \"\"\"Starts FIDO2 recheck\"\"\"\n    context = csrf(request)\n    context[\"mode\"] = \"recheck\"\n    request.session[\"mfa_recheck\"] = True\n    return render(request, \"FIDO2/recheck.html\", context)\ndef getServer():\n    \"\"\"Get Server Info from settings and returns a Fido2Server\"\"\"\n    rp = PublicKeyCredentialRpEntity(id=settings.FIDO_SERVER_ID, name=settings.FIDO_SERVER_NAME)\n    return Fido2Server(rp)",
+        "detail": "example.mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "getServer",
+        "kind": 2,
+        "importPath": "example.mfa.FIDO2",
+        "description": "example.mfa.FIDO2",
+        "peekOfCode": "def getServer():\n    \"\"\"Get Server Info from settings and returns a Fido2Server\"\"\"\n    rp = PublicKeyCredentialRpEntity(id=settings.FIDO_SERVER_ID, name=settings.FIDO_SERVER_NAME)\n    return Fido2Server(rp)\ndef begin_registeration(request):\n    \"\"\"Starts registering a new FIDO Device, called from API\"\"\"\n    server = getServer()\n    registration_data, state = server.register_begin({\n        u'id': request.user.username.encode(\"utf8\"),\n        u'name': (request.user.first_name + \" \" + request.user.last_name),",
+        "detail": "example.mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "begin_registeration",
+        "kind": 2,
+        "importPath": "example.mfa.FIDO2",
+        "description": "example.mfa.FIDO2",
+        "peekOfCode": "def begin_registeration(request):\n    \"\"\"Starts registering a new FIDO Device, called from API\"\"\"\n    server = getServer()\n    registration_data, state = server.register_begin({\n        u'id': request.user.username.encode(\"utf8\"),\n        u'name': (request.user.first_name + \" \" + request.user.last_name),\n        u'displayName': request.user.username,\n    }, getUserCredentials(request.user.username))\n    request.session['fido_state'] = state\n    return HttpResponse(cbor.encode(registration_data), content_type = 'application/octet-stream')",
+        "detail": "example.mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "complete_reg",
+        "kind": 2,
+        "importPath": "example.mfa.FIDO2",
+        "description": "example.mfa.FIDO2",
+        "peekOfCode": "def complete_reg(request):\n    \"\"\"Completes the registeration, called by API\"\"\"\n    try:\n        if not \"fido_state\" in request.session:\n            return JsonResponse({'status': 'ERR', \"message\": \"FIDO Status can't be found, please try again\"})\n        data = cbor.decode(request.body)\n        client_data = CollectedClientData(data['clientDataJSON'])\n        att_obj = AttestationObject((data['attestationObject']))\n        server = getServer()\n        auth_data = server.register_complete(",
+        "detail": "example.mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "example.mfa.FIDO2",
+        "description": "example.mfa.FIDO2",
+        "peekOfCode": "def start(request):\n    \"\"\"Start Registration a new FIDO Token\"\"\"\n    context = csrf(request)\n    context.update(get_redirect_url())\n    context[\"method\"] = {\"name\":getattr(settings,\"MFA_RENAME_METHODS\",{}).get(\"FIDO2\",\"FIDO2 Security Key\")}\n    context[\"RECOVERY_METHOD\"]=getattr(settings,\"MFA_RENAME_METHODS\",{}).get(\"RECOVERY\",\"Recovery codes\")\n    return render(request, \"FIDO2/Add.html\", context)\ndef getUserCredentials(username):\n    credentials = []\n    for uk in User_Keys.objects.filter(username = username, key_type = \"FIDO2\"):",
+        "detail": "example.mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "getUserCredentials",
+        "kind": 2,
+        "importPath": "example.mfa.FIDO2",
+        "description": "example.mfa.FIDO2",
+        "peekOfCode": "def getUserCredentials(username):\n    credentials = []\n    for uk in User_Keys.objects.filter(username = username, key_type = \"FIDO2\"):\n        credentials.append(AttestedCredentialData(websafe_decode(uk.properties[\"device\"])))\n    return credentials\ndef auth(request):\n    context = csrf(request)\n    return render(request, \"FIDO2/Auth.html\", context)\ndef authenticate_begin(request):\n    server = getServer()",
+        "detail": "example.mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 2,
+        "importPath": "example.mfa.FIDO2",
+        "description": "example.mfa.FIDO2",
+        "peekOfCode": "def auth(request):\n    context = csrf(request)\n    return render(request, \"FIDO2/Auth.html\", context)\ndef authenticate_begin(request):\n    server = getServer()\n    credentials = getUserCredentials(request.session.get(\"base_username\", request.user.username))\n    auth_data, state = server.authenticate_begin(credentials)\n    request.session['fido_state'] = state\n    return HttpResponse(cbor.encode(auth_data), content_type = \"application/octet-stream\")\n@csrf_exempt",
+        "detail": "example.mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_begin",
+        "kind": 2,
+        "importPath": "example.mfa.FIDO2",
+        "description": "example.mfa.FIDO2",
+        "peekOfCode": "def authenticate_begin(request):\n    server = getServer()\n    credentials = getUserCredentials(request.session.get(\"base_username\", request.user.username))\n    auth_data, state = server.authenticate_begin(credentials)\n    request.session['fido_state'] = state\n    return HttpResponse(cbor.encode(auth_data), content_type = \"application/octet-stream\")\n@csrf_exempt\ndef authenticate_complete(request):\n    try:\n        credentials = []",
+        "detail": "example.mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_complete",
+        "kind": 2,
+        "importPath": "example.mfa.FIDO2",
+        "description": "example.mfa.FIDO2",
+        "peekOfCode": "def authenticate_complete(request):\n    try:\n        credentials = []\n        username = request.session.get(\"base_username\", request.user.username)\n        server = getServer()\n        credentials = getUserCredentials(username)\n        data = cbor.decode(request.body)\n        credential_id = data['credentialId']\n        client_data = CollectedClientData(data['clientDataJSON'])\n        auth_data = AuthenticatorData(data['authenticatorData'])",
+        "detail": "example.mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "id_generator",
+        "kind": 2,
+        "importPath": "example.mfa.TrustedDevice",
+        "description": "example.mfa.TrustedDevice",
+        "peekOfCode": "def id_generator(size=6, chars=string.ascii_uppercase + string.digits):\n    x=''.join(random.choice(chars) for _ in range(size))\n    if not User_Keys.objects.filter(properties__icontains='\"key\": \"%s\"'%x).exists(): return x\n    else: return id_generator(size,chars)\ndef getUserAgent(request):\n    id=id=request.session.get(\"td_id\",None)\n    if id:\n        tk=User_Keys.objects.get(id=id)\n        if tk.properties.get(\"user_agent\",\"\")!=\"\":\n            ua = user_agents.parse(tk.properties[\"user_agent\"])",
+        "detail": "example.mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "getUserAgent",
+        "kind": 2,
+        "importPath": "example.mfa.TrustedDevice",
+        "description": "example.mfa.TrustedDevice",
+        "peekOfCode": "def getUserAgent(request):\n    id=id=request.session.get(\"td_id\",None)\n    if id:\n        tk=User_Keys.objects.get(id=id)\n        if tk.properties.get(\"user_agent\",\"\")!=\"\":\n            ua = user_agents.parse(tk.properties[\"user_agent\"])\n            res = render(None, \"TrustedDevices/user-agent.html\", context={\"ua\":ua})\n            return HttpResponse(res)\n    return HttpResponse(\"\")\ndef trust_device(request):",
+        "detail": "example.mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "trust_device",
+        "kind": 2,
+        "importPath": "example.mfa.TrustedDevice",
+        "description": "example.mfa.TrustedDevice",
+        "peekOfCode": "def trust_device(request):\n    tk = User_Keys.objects.get(id=request.session[\"td_id\"])\n    tk.properties[\"status\"]=\"trusted\"\n    tk.save()\n    del request.session[\"td_id\"]\n    return HttpResponse(\"OK\")\ndef checkTrusted(request):\n    res = \"\"\n    id=request.session.get(\"td_id\",\"\")\n    if id!=\"\":",
+        "detail": "example.mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "checkTrusted",
+        "kind": 2,
+        "importPath": "example.mfa.TrustedDevice",
+        "description": "example.mfa.TrustedDevice",
+        "peekOfCode": "def checkTrusted(request):\n    res = \"\"\n    id=request.session.get(\"td_id\",\"\")\n    if id!=\"\":\n        try:\n            tk = User_Keys.objects.get(id=id)\n            if tk.properties[\"status\"] == \"trusted\": res = \"OK\"\n        except:\n            pass\n    return HttpResponse(res)",
+        "detail": "example.mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "getCookie",
+        "kind": 2,
+        "importPath": "example.mfa.TrustedDevice",
+        "description": "example.mfa.TrustedDevice",
+        "peekOfCode": "def getCookie(request):\n    tk = User_Keys.objects.get(id=request.session[\"td_id\"])\n    if tk.properties[\"status\"] == \"trusted\":\n        context={\"added\":True}\n        response = render(request,\"TrustedDevices/Done.html\", context)\n        from datetime import datetime, timedelta\n        expires = datetime.now() + timedelta(days=180)\n        tk.expires=expires\n        tk.save()\n        response.set_cookie(\"deviceid\", tk.properties[\"signature\"], expires=expires)",
+        "detail": "example.mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "example.mfa.TrustedDevice",
+        "description": "example.mfa.TrustedDevice",
+        "peekOfCode": "def add(request):\n    context=csrf(request)\n    if request.method==\"GET\":\n        context.update({\"username\":request.GET.get('u',''),\"key\":request.GET.get('k','')})\n        return render(request,\"TrustedDevices/Add.html\",context)\n    else:\n        key=request.POST[\"key\"].replace(\"-\",\"\").replace(\" \",\"\").upper()\n        context[\"username\"] = request.POST[\"username\"]\n        context[\"key\"] = request.POST[\"key\"]\n        trusted_keys=User_Keys.objects.filter(username=request.POST[\"username\"],properties__icontains='\"key\": \"%s\"'%key)",
+        "detail": "example.mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "example.mfa.TrustedDevice",
+        "description": "example.mfa.TrustedDevice",
+        "peekOfCode": "def start(request):\n    if User_Keys.objects.filter(username=request.user.username,key_type=\"Trusted Device\").count()>= 2:\n        return render(request,\"TrustedDevices/start.html\",{\"not_allowed\":True})\n    td=None\n    if not request.session.get(\"td_id\",None):\n        td=User_Keys()\n        td.username=request.user.username\n        td.properties={\"key\":id_generator(),\"status\":\"adding\"}\n        td.key_type=\"Trusted Device\"\n        td.save()",
+        "detail": "example.mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "kind": 2,
+        "importPath": "example.mfa.TrustedDevice",
+        "description": "example.mfa.TrustedDevice",
+        "peekOfCode": "def send_email(request):\n    body=render(request,\"TrustedDevices/email.html\",{}).content\n    from .Common import send\n    e=request.user.email\n    if e==\"\":\n        e=request.session.get(\"user\",{}).get(\"email\",\"\")\n    if e==\"\":\n        res = \"User has no email on the system.\"\n    elif send([e],\"Add Trusted Device Link\",body):\n        res=\"Sent Successfully\"",
+        "detail": "example.mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "verify",
+        "kind": 2,
+        "importPath": "example.mfa.TrustedDevice",
+        "description": "example.mfa.TrustedDevice",
+        "peekOfCode": "def verify(request):\n    if request.COOKIES.get('deviceid',None):\n        from jose import jwt\n        json= jwt.decode(request.COOKIES.get('deviceid'),settings.SECRET_KEY)\n        if json[\"username\"].lower()== request.session['base_username'].lower():\n            try:\n                uk = User_Keys.objects.get(username=request.POST[\"username\"].lower(), properties__icontains='\"key\": \"%s\"'%json[\"key\"])\n                if uk.enabled and uk.properties[\"status\"] == \"trusted\":\n                    uk.last_used=timezone.now()\n                    uk.save()",
+        "detail": "example.mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "recheck",
+        "kind": 2,
+        "importPath": "example.mfa.U2F",
+        "description": "example.mfa.U2F",
+        "peekOfCode": "def recheck(request):\n    context = csrf(request)\n    context[\"mode\"]=\"recheck\"\n    s = sign(request.user.username)\n    request.session[\"_u2f_challenge_\"] = s[0]\n    context[\"token\"] = s[1]\n    request.session[\"mfa_recheck\"]=True\n    return render(request,\"U2F/recheck.html\", context)\ndef process_recheck(request):\n    x=validate(request,request.user.username)",
+        "detail": "example.mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "process_recheck",
+        "kind": 2,
+        "importPath": "example.mfa.U2F",
+        "description": "example.mfa.U2F",
+        "peekOfCode": "def process_recheck(request):\n    x=validate(request,request.user.username)\n    if x==True:\n        import time\n        request.session[\"mfa\"][\"rechecked_at\"] = time.time()\n        return HttpResponse(simplejson.dumps({\"recheck\":True}),content_type=\"application/json\")\n    return x\ndef check_errors(request, data):\n    if \"errorCode\" in data:\n        if data[\"errorCode\"] == 0: return True",
+        "detail": "example.mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "check_errors",
+        "kind": 2,
+        "importPath": "example.mfa.U2F",
+        "description": "example.mfa.U2F",
+        "peekOfCode": "def check_errors(request, data):\n    if \"errorCode\" in data:\n        if data[\"errorCode\"] == 0: return True\n        if data[\"errorCode\"] == 4:\n            return HttpResponse(\"Invalid Security Key\")\n        if data[\"errorCode\"] == 1:\n            return auth(request)\n    return True\ndef validate(request,username):\n    import datetime, random",
+        "detail": "example.mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "validate",
+        "kind": 2,
+        "importPath": "example.mfa.U2F",
+        "description": "example.mfa.U2F",
+        "peekOfCode": "def validate(request,username):\n    import datetime, random\n    data = simplejson.loads(request.POST[\"response\"])\n    res= check_errors(request,data)\n    if res!=True:\n        return res\n    challenge = request.session.pop('_u2f_challenge_')\n    device, c, t = complete_authentication(challenge, data, [settings.U2F_APPID])\n    try:\n        key=User_Keys.objects.get(username=username,properties__icontains='\"publicKey\": \"%s\"'%device[\"publicKey\"])",
+        "detail": "example.mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 2,
+        "importPath": "example.mfa.U2F",
+        "description": "example.mfa.U2F",
+        "peekOfCode": "def auth(request):\n    context=csrf(request)\n    s=sign(request.session[\"base_username\"])\n    request.session[\"_u2f_challenge_\"]=s[0]\n    context[\"token\"]=s[1]\n    context[\"method\"] = {\"name\": getattr(settings, \"MFA_RENAME_METHODS\", {}).get(\"U2F\", \"Classical Security Key\")}\n    return render(request,\"U2F/Auth.html\",context)\ndef start(request):\n    enroll = begin_registration(settings.U2F_APPID, [])\n    request.session['_u2f_enroll_'] = enroll.json",
+        "detail": "example.mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "example.mfa.U2F",
+        "description": "example.mfa.U2F",
+        "peekOfCode": "def start(request):\n    enroll = begin_registration(settings.U2F_APPID, [])\n    request.session['_u2f_enroll_'] = enroll.json\n    context=csrf(request)\n    context[\"token\"]=simplejson.dumps(enroll.data_for_client)\n    context.update(get_redirect_url())\n    context[\"method\"] = {\"name\": getattr(settings, \"MFA_RENAME_METHODS\", {}).get(\"U2F\", \"Classical Security Key\")}\n    context[\"RECOVERY_METHOD\"] = getattr(settings, \"MFA_RENAME_METHODS\", {}).get(\"RECOVERY\", \"Recovery codes\")\n    return render(request,\"U2F/Add.html\",context)\ndef bind(request):",
+        "detail": "example.mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "bind",
+        "kind": 2,
+        "importPath": "example.mfa.U2F",
+        "description": "example.mfa.U2F",
+        "peekOfCode": "def bind(request):\n    import hashlib\n    enroll = request.session['_u2f_enroll_']\n    data=simplejson.loads(request.POST[\"response\"])\n    device, cert = complete_registration(enroll, data, [settings.U2F_APPID])\n    cert = x509.load_der_x509_certificate(cert, default_backend())\n    cert_hash=hashlib.md5(cert.public_bytes(Encoding.PEM)).hexdigest()\n    q=User_Keys.objects.filter(key_type=\"U2F\", properties__icontains= cert_hash)\n    if q.exists():\n        return HttpResponse(\"This key is registered before, it can't be registered again.\")",
+        "detail": "example.mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "sign",
+        "kind": 2,
+        "importPath": "example.mfa.U2F",
+        "description": "example.mfa.U2F",
+        "peekOfCode": "def sign(username):\n    u2f_devices=[d.properties[\"device\"] for d in User_Keys.objects.filter(username=username,key_type=\"U2F\")]\n    challenge = begin_authentication(settings.U2F_APPID, u2f_devices)\n    return [challenge.json,simplejson.dumps(challenge.data_for_client)]\ndef verify(request):\n    x= validate(request,request.session[\"base_username\"])\n    if x==True:\n        return login(request)\n    else: return x",
+        "detail": "example.mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "verify",
+        "kind": 2,
+        "importPath": "example.mfa.U2F",
+        "description": "example.mfa.U2F",
+        "peekOfCode": "def verify(request):\n    x= validate(request,request.session[\"base_username\"])\n    if x==True:\n        return login(request)\n    else: return x",
+        "detail": "example.mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "myAppNameConfig",
+        "kind": 6,
+        "importPath": "example.mfa.apps",
+        "description": "example.mfa.apps",
+        "peekOfCode": "class myAppNameConfig(AppConfig):\n    name = 'mfa'\n    verbose_name = 'A Much Better Name'",
+        "detail": "example.mfa.apps",
+        "documentation": {}
+    },
+    {
+        "label": "has_mfa",
+        "kind": 2,
+        "importPath": "example.mfa.helpers",
+        "description": "example.mfa.helpers",
+        "peekOfCode": "def has_mfa(request,username):\n    if User_Keys.objects.filter(username=username,enabled=1).count()>0:\n        return verify(request, username)\n    return False\ndef is_mfa(request,ignore_methods=[]):\n    if request.session.get(\"mfa\",{}).get(\"verified\",False):\n        if not request.session.get(\"mfa\",{}).get(\"method\",None) in ignore_methods:\n            return True\n    return False\ndef recheck(request):",
+        "detail": "example.mfa.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "is_mfa",
+        "kind": 2,
+        "importPath": "example.mfa.helpers",
+        "description": "example.mfa.helpers",
+        "peekOfCode": "def is_mfa(request,ignore_methods=[]):\n    if request.session.get(\"mfa\",{}).get(\"verified\",False):\n        if not request.session.get(\"mfa\",{}).get(\"method\",None) in ignore_methods:\n            return True\n    return False\ndef recheck(request):\n    method=request.session.get(\"mfa\",{}).get(\"method\",None)\n    if not method:\n        return HttpResponse(simplejson.dumps({\"res\":False}),content_type=\"application/json\")\n    if method==\"Trusted Device\":",
+        "detail": "example.mfa.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "recheck",
+        "kind": 2,
+        "importPath": "example.mfa.helpers",
+        "description": "example.mfa.helpers",
+        "peekOfCode": "def recheck(request):\n    method=request.session.get(\"mfa\",{}).get(\"method\",None)\n    if not method:\n        return HttpResponse(simplejson.dumps({\"res\":False}),content_type=\"application/json\")\n    if method==\"Trusted Device\":\n        return HttpResponse(simplejson.dumps({\"res\":TrustedDevice.verify(request)}),content_type=\"application/json\")\n    elif method==\"U2F\":\n        return HttpResponse(simplejson.dumps({\"html\": U2F.recheck(request).content}), content_type=\"application/json\")\n    elif method == \"FIDO2\":\n        return HttpResponse(simplejson.dumps({\"html\": FIDO2.recheck(request).content}), content_type=\"application/json\")",
+        "detail": "example.mfa.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "process",
+        "kind": 2,
+        "importPath": "example.mfa.middleware",
+        "description": "example.mfa.middleware",
+        "peekOfCode": "def process(request):\n    next_check=request.session.get('mfa',{}).get(\"next_check\",False)\n    if not next_check: return None\n    now=int(time.time())\n    if now >= next_check:\n        method=request.session[\"mfa\"][\"method\"]\n        path = request.META[\"PATH_INFO\"]\n        return HttpResponseRedirect(reverse(method+\"_auth\")+\"?next=%s\"%(settings.BASE_URL + path).replace(\"//\", \"/\"))\n    return None",
+        "detail": "example.mfa.middleware",
+        "documentation": {}
+    },
+    {
+        "label": "User_Keys",
+        "kind": 6,
+        "importPath": "example.mfa.models",
+        "description": "example.mfa.models",
+        "peekOfCode": "class User_Keys(models.Model):\n    username=models.CharField(max_length = 50)\n    properties=JSONField(null = True)\n    added_on=models.DateTimeField(auto_now_add = True)\n    key_type=models.CharField(max_length = 25,default = \"TOTP\")\n    enabled=models.BooleanField(default=True)\n    expires=models.DateTimeField(null=True,default=None,blank=True)\n    last_used=models.DateTimeField(null=True,default=None,blank=True)\n    owned_by_enterprise=models.BooleanField(default=None,null=True,blank=True)\n    def save(self, force_insert=False, force_update=False, using=None, update_fields=None):",
+        "detail": "example.mfa.models",
+        "documentation": {}
+    },
+    {
+        "label": "Hash",
+        "kind": 6,
+        "importPath": "example.mfa.recovery",
+        "description": "example.mfa.recovery",
+        "peekOfCode": "class Hash(PBKDF2PasswordHasher):\n    algorithm = 'pbkdf2_sha256_custom'\n    iterations = getattr(settings,\"RECOVERY_ITERATION\",1)\ndef delTokens(request):\n    #Only when all MFA have been deactivated, or to generate new !\n    #We iterate only to clean if any error happend and multiple entry of RECOVERY created for one user\n    for key in User_Keys.objects.filter(username=request.user.username, key_type = \"RECOVERY\"):\n        if key.username == request.user.username:\n            key.delete()\ndef randomGen(n):",
+        "detail": "example.mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "delTokens",
+        "kind": 2,
+        "importPath": "example.mfa.recovery",
+        "description": "example.mfa.recovery",
+        "peekOfCode": "def delTokens(request):\n    #Only when all MFA have been deactivated, or to generate new !\n    #We iterate only to clean if any error happend and multiple entry of RECOVERY created for one user\n    for key in User_Keys.objects.filter(username=request.user.username, key_type = \"RECOVERY\"):\n        if key.username == request.user.username:\n            key.delete()\ndef randomGen(n):\n    return ''.join(random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits) for _ in range(n))\n@never_cache\ndef genTokens(request):",
+        "detail": "example.mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "randomGen",
+        "kind": 2,
+        "importPath": "example.mfa.recovery",
+        "description": "example.mfa.recovery",
+        "peekOfCode": "def randomGen(n):\n    return ''.join(random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits) for _ in range(n))\n@never_cache\ndef genTokens(request):\n    #Delete old ones\n    delTokens(request)\n    #Then generate new one\n    salt = randomGen(15)\n    hashedKeys = []\n    clearKeys = []",
+        "detail": "example.mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "genTokens",
+        "kind": 2,
+        "importPath": "example.mfa.recovery",
+        "description": "example.mfa.recovery",
+        "peekOfCode": "def genTokens(request):\n    #Delete old ones\n    delTokens(request)\n    #Then generate new one\n    salt = randomGen(15)\n    hashedKeys = []\n    clearKeys = []\n    for i in range(5):\n            token = randomGen(5) + \"-\" + randomGen(5)\n            hashedToken = make_password(token, salt, 'pbkdf2_sha256_custom')",
+        "detail": "example.mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "verify_login",
+        "kind": 2,
+        "importPath": "example.mfa.recovery",
+        "description": "example.mfa.recovery",
+        "peekOfCode": "def verify_login(request, username, token):\n    for key in User_Keys.objects.filter(username=username, key_type = \"RECOVERY\"):\n        secret_keys = key.properties[\"secret_keys\"]\n        salt = key.properties[\"salt\"]\n        hashedToken = make_password(token, salt, \"pbkdf2_sha256_custom\")\n        for i,token in enumerate(secret_keys):\n            if hashedToken == token:\n                secret_keys.pop(i)\n                key.properties[\"secret_keys\"] = secret_keys\n                key.last_used= timezone.now()",
+        "detail": "example.mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "getTokenLeft",
+        "kind": 2,
+        "importPath": "example.mfa.recovery",
+        "description": "example.mfa.recovery",
+        "peekOfCode": "def getTokenLeft(request):\n    uk = User_Keys.objects.filter(username=request.user.username, key_type = \"RECOVERY\")\n    keyLeft=0\n    for key in uk:\n        keyLeft += len(key.properties[\"secret_keys\"])\n    return HttpResponse(simplejson.dumps({\"left\":keyLeft}))\ndef recheck(request):\n    context = csrf(request)\n    context[\"mode\"]=\"recheck\"\n    if request.method == \"POST\":",
+        "detail": "example.mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "recheck",
+        "kind": 2,
+        "importPath": "example.mfa.recovery",
+        "description": "example.mfa.recovery",
+        "peekOfCode": "def recheck(request):\n    context = csrf(request)\n    context[\"mode\"]=\"recheck\"\n    if request.method == \"POST\":\n        if verify_login(request,request.user.username, token=request.POST[\"recovery\"])[0]:\n            import time\n            request.session[\"mfa\"][\"rechecked_at\"] = time.time()\n            return HttpResponse(simplejson.dumps({\"recheck\": True}), content_type=\"application/json\")\n        else:\n            return HttpResponse(simplejson.dumps({\"recheck\": False}), content_type=\"application/json\")",
+        "detail": "example.mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 2,
+        "importPath": "example.mfa.recovery",
+        "description": "example.mfa.recovery",
+        "peekOfCode": "def auth(request):\n    from .views import login\n    context=csrf(request)\n    if request.method==\"POST\":\n        tokenLength = len(request.POST[\"recovery\"])\n        if tokenLength == 11 and \"RECOVERY\" not in settings.MFA_UNALLOWED_METHODS:\n            #Backup code check\n            resBackup=verify_login(request, request.session[\"base_username\"], token=request.POST[\"recovery\"])\n            if resBackup[0]:\n                mfa = {\"verified\": True, \"method\": \"RECOVERY\",\"id\":resBackup[1], \"lastBackup\":resBackup[2]}",
+        "detail": "example.mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "example.mfa.recovery",
+        "description": "example.mfa.recovery",
+        "peekOfCode": "def start(request):\n    \"\"\"Start Managing recovery tokens\"\"\"\n    context = get_redirect_url()\n    if \"mfa_reg\" in request.session:\n        context[\"mfa_redirect\"] = request.session[\"mfa_reg\"][\"name\"]\n    return render(request,\"RECOVERY/Add.html\",context)",
+        "detail": "example.mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "USER_FRIENDLY_NAME",
+        "kind": 5,
+        "importPath": "example.mfa.recovery",
+        "description": "example.mfa.recovery",
+        "peekOfCode": "USER_FRIENDLY_NAME = \"Recovery Codes\"\nclass Hash(PBKDF2PasswordHasher):\n    algorithm = 'pbkdf2_sha256_custom'\n    iterations = getattr(settings,\"RECOVERY_ITERATION\",1)\ndef delTokens(request):\n    #Only when all MFA have been deactivated, or to generate new !\n    #We iterate only to clean if any error happend and multiple entry of RECOVERY created for one user\n    for key in User_Keys.objects.filter(username=request.user.username, key_type = \"RECOVERY\"):\n        if key.username == request.user.username:\n            key.delete()",
+        "detail": "example.mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "verify_login",
+        "kind": 2,
+        "importPath": "example.mfa.totp",
+        "description": "example.mfa.totp",
+        "peekOfCode": "def verify_login(request,username,token):\n    for key in User_Keys.objects.filter(username=username,key_type = \"TOTP\"):\n        totp = pyotp.TOTP(key.properties[\"secret_key\"])\n        if  totp.verify(token,valid_window = 30):\n            key.last_used=timezone.now()\n            key.save()\n            return [True,key.id]\n    return [False]\ndef recheck(request):\n    context = csrf(request)",
+        "detail": "example.mfa.totp",
+        "documentation": {}
+    },
+    {
+        "label": "recheck",
+        "kind": 2,
+        "importPath": "example.mfa.totp",
+        "description": "example.mfa.totp",
+        "peekOfCode": "def recheck(request):\n    context = csrf(request)\n    context[\"mode\"]=\"recheck\"\n    if request.method == \"POST\":\n        if verify_login(request,request.user.username, token=request.POST[\"otp\"])[0]:\n            import time\n            request.session[\"mfa\"][\"rechecked_at\"] = time.time()\n            return HttpResponse(simplejson.dumps({\"recheck\": True}), content_type=\"application/json\")\n        else:\n            return HttpResponse(simplejson.dumps({\"recheck\": False}), content_type=\"application/json\")",
+        "detail": "example.mfa.totp",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 2,
+        "importPath": "example.mfa.totp",
+        "description": "example.mfa.totp",
+        "peekOfCode": "def auth(request):\n    context=csrf(request)\n    if request.method==\"POST\":\n        tokenLength = len(request.POST[\"otp\"])\n        if tokenLength == 6:\n            #TOTO code check\n            res=verify_login(request,request.session[\"base_username\"],token = request.POST[\"otp\"])\n            if res[0]:\n                mfa = {\"verified\": True, \"method\": \"TOTP\",\"id\":res[1]}\n                if getattr(settings, \"MFA_RECHECK\", False):",
+        "detail": "example.mfa.totp",
+        "documentation": {}
+    },
+    {
+        "label": "getToken",
+        "kind": 2,
+        "importPath": "example.mfa.totp",
+        "description": "example.mfa.totp",
+        "peekOfCode": "def getToken(request):\n    secret_key=pyotp.random_base32()\n    totp = pyotp.TOTP(secret_key)\n    request.session[\"new_mfa_answer\"]=totp.now()\n    return HttpResponse(simplejson.dumps({\"qr\":pyotp.totp.TOTP(secret_key).provisioning_uri(str(request.user.username), issuer_name = settings.TOKEN_ISSUER_NAME),\n                         \"secret_key\": secret_key}))\ndef verify(request):\n    answer=request.GET[\"answer\"]\n    secret_key=request.GET[\"key\"]\n    totp = pyotp.TOTP(secret_key)",
+        "detail": "example.mfa.totp",
+        "documentation": {}
+    },
+    {
+        "label": "verify",
+        "kind": 2,
+        "importPath": "example.mfa.totp",
+        "description": "example.mfa.totp",
+        "peekOfCode": "def verify(request):\n    answer=request.GET[\"answer\"]\n    secret_key=request.GET[\"key\"]\n    totp = pyotp.TOTP(secret_key)\n    if totp.verify(answer,valid_window = 60):\n        uk=User_Keys()\n        uk.username=request.user.username\n        uk.properties={\"secret_key\":secret_key}\n        #uk.name=\"Authenticatior #%s\"%User_Keys.objects.filter(username=user.username,type=\"TOTP\")\n        uk.key_type=\"TOTP\"",
+        "detail": "example.mfa.totp",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "example.mfa.totp",
+        "description": "example.mfa.totp",
+        "peekOfCode": "def start(request):\n    \"\"\"Start Adding Time One Time Password (TOTP)\"\"\"\n    context = get_redirect_url()\n    context[\"RECOVERY_METHOD\"] = getattr(settings, \"MFA_RENAME_METHODS\", {}).get(\"RECOVERY\", \"Recovery codes\")\n    context[\"method\"] = {\"name\":getattr(settings,\"MFA_RENAME_METHODS\",{}).get(\"TOTP\",\"Authenticator\")}\n    return render(request,\"TOTP/Add.html\",context)",
+        "detail": "example.mfa.totp",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "example.mfa.urls",
+        "description": "example.mfa.urls",
+        "peekOfCode": "urlpatterns = [\n    url(r'totp/start/', totp.start , name=\"start_new_otop\"),\n    url(r'totp/getToken', totp.getToken , name=\"get_new_otop\"),\n    url(r'totp/verify', totp.verify, name=\"verify_otop\"),\n    url(r'totp/auth', totp.auth, name=\"totp_auth\"),\n    url(r'totp/recheck', totp.recheck, name=\"totp_recheck\"),\n    url(r'recovery/start', recovery.start, name=\"manage_recovery_codes\"),\n    url(r'recovery/getTokenLeft', recovery.getTokenLeft, name=\"get_recovery_token_left\"),\n    url(r'recovery/genTokens', recovery.genTokens, name=\"regen_recovery_tokens\"),\n    url(r'recovery/auth', recovery.auth, name=\"recovery_auth\"),",
+        "detail": "example.mfa.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "example.mfa.views",
+        "description": "example.mfa.views",
+        "peekOfCode": "def index(request):\n    keys=[]\n    context={\"keys\":User_Keys.objects.filter(username=request.user.username),\"UNALLOWED_AUTHEN_METHODS\":settings.MFA_UNALLOWED_METHODS\n             ,\"HIDE_DISABLE\":getattr(settings,\"MFA_HIDE_DISABLE\",[]),'RENAME_METHODS':getattr(settings,'MFA_RENAME_METHODS',{})}\n    for k in context[\"keys\"]:\n        k.name = getattr(settings,'MFA_RENAME_METHODS',{}).get(k.key_type,k.key_type)\n        if k.key_type ==\"Trusted Device\":\n            setattr(k,\"device\",parse(k.properties.get(\"user_agent\",\"-----\")))\n        elif k.key_type == \"FIDO2\":\n            setattr(k,\"device\",k.properties.get(\"type\",\"----\"))",
+        "detail": "example.mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "verify",
+        "kind": 2,
+        "importPath": "example.mfa.views",
+        "description": "example.mfa.views",
+        "peekOfCode": "def verify(request,username):\n    request.session[\"base_username\"] = username\n    #request.session[\"base_password\"] = password\n    keys=User_Keys.objects.filter(username=username,enabled=1)\n    methods=list(set([k.key_type for k in keys]))\n    if \"Trusted Device\" in methods and not request.session.get(\"checked_trusted_device\",False):\n        if TrustedDevice.verify(request):\n            return login(request)\n        methods.remove(\"Trusted Device\")\n    request.session[\"mfa_methods\"] = methods",
+        "detail": "example.mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "show_methods",
+        "kind": 2,
+        "importPath": "example.mfa.views",
+        "description": "example.mfa.views",
+        "peekOfCode": "def show_methods(request):\n    return render(request,\"select_mfa_method.html\", {'RENAME_METHODS':getattr(settings,'MFA_RENAME_METHODS',{})})\ndef reset_cookie(request):\n    response=HttpResponseRedirect(settings.LOGIN_URL)\n    response.delete_cookie(\"base_username\")\n    return response\ndef login(request):\n    from django.contrib import auth\n    from django.conf import settings\n    callable_func = __get_callable_function__(settings.MFA_LOGIN_CALLBACK)",
+        "detail": "example.mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "reset_cookie",
+        "kind": 2,
+        "importPath": "example.mfa.views",
+        "description": "example.mfa.views",
+        "peekOfCode": "def reset_cookie(request):\n    response=HttpResponseRedirect(settings.LOGIN_URL)\n    response.delete_cookie(\"base_username\")\n    return response\ndef login(request):\n    from django.contrib import auth\n    from django.conf import settings\n    callable_func = __get_callable_function__(settings.MFA_LOGIN_CALLBACK)\n    return callable_func(request,username=request.session[\"base_username\"])\n@login_required",
+        "detail": "example.mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "example.mfa.views",
+        "description": "example.mfa.views",
+        "peekOfCode": "def login(request):\n    from django.contrib import auth\n    from django.conf import settings\n    callable_func = __get_callable_function__(settings.MFA_LOGIN_CALLBACK)\n    return callable_func(request,username=request.session[\"base_username\"])\n@login_required\ndef delKey(request):\n    key=User_Keys.objects.get(id=request.GET[\"id\"])\n    if key.username == request.user.username:\n        key.delete()",
+        "detail": "example.mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "delKey",
+        "kind": 2,
+        "importPath": "example.mfa.views",
+        "description": "example.mfa.views",
+        "peekOfCode": "def delKey(request):\n    key=User_Keys.objects.get(id=request.GET[\"id\"])\n    if key.username == request.user.username:\n        key.delete()\n        return HttpResponse(\"Deleted Successfully\")\n    else:\n        return HttpResponse(\"Error: You own this token so you can't delete it\")\ndef __get_callable_function__(func_path):\n    import importlib\n    if not '.' in func_path:",
+        "detail": "example.mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "toggleKey",
+        "kind": 2,
+        "importPath": "example.mfa.views",
+        "description": "example.mfa.views",
+        "peekOfCode": "def toggleKey(request):\n    id=request.GET[\"id\"]\n    q=User_Keys.objects.filter(username=request.user.username, id=id)\n    if q.count()==1:\n        key=q[0]\n        if not key.key_type in settings.MFA_HIDE_DISABLE:\n            key.enabled=not key.enabled\n            key.save()\n            return HttpResponse(\"OK\")\n        else:",
+        "detail": "example.mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "goto",
+        "kind": 2,
+        "importPath": "example.mfa.views",
+        "description": "example.mfa.views",
+        "peekOfCode": "def goto(request,method):\n    return HttpResponseRedirect(reverse(method.lower()+\"_auth\"))",
+        "detail": "example.mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mfa.migrations.0001_initial",
+        "description": "mfa.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User_Keys',\n            fields=[\n                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),\n                ('username', models.CharField(max_length=50)),\n                ('secret_key', models.CharField(max_length=15)),",
+        "detail": "mfa.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mfa.migrations.0002_user_keys_key_type",
+        "description": "mfa.migrations.0002_user_keys_key_type",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user_keys',\n            name='key_type',\n            field=models.CharField(default=b'TOTP', max_length=25),\n        ),",
+        "detail": "mfa.migrations.0002_user_keys_key_type",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mfa.migrations.0003_auto_20181114_2159",
+        "description": "mfa.migrations.0003_auto_20181114_2159",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0002_user_keys_key_type'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user_keys',\n            name='secret_key',\n            field=models.CharField(max_length=32),\n        ),",
+        "detail": "mfa.migrations.0003_auto_20181114_2159",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mfa.migrations.0004_user_keys_enabled",
+        "description": "mfa.migrations.0004_user_keys_enabled",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0003_auto_20181114_2159'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user_keys',\n            name='enabled',\n            field=models.BooleanField(default=True),\n        ),",
+        "detail": "mfa.migrations.0004_user_keys_enabled",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mfa.migrations.0005_auto_20181115_2014",
+        "description": "mfa.migrations.0005_auto_20181115_2014",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0004_user_keys_enabled'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='user_keys',\n            name='secret_key',\n        ),\n        migrations.AddField(",
+        "detail": "mfa.migrations.0005_auto_20181115_2014",
+        "documentation": {}
+    },
+    {
+        "label": "modify_json",
+        "kind": 2,
+        "importPath": "mfa.migrations.0005_auto_20181115_2014",
+        "description": "mfa.migrations.0005_auto_20181115_2014",
+        "peekOfCode": "def modify_json(apps, schema_editor):\n    from django.conf import settings\n    if \"mysql\" in settings.DATABASES.get(\"default\", {}).get(\"engine\", \"\"):\n        migrations.RunSQL(\"alter table mfa_user_keys modify column properties json;\")\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0004_user_keys_enabled'),\n    ]\n    operations = [\n        migrations.RemoveField(",
+        "detail": "mfa.migrations.0005_auto_20181115_2014",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mfa.migrations.0006_trusted_devices",
+        "description": "mfa.migrations.0006_trusted_devices",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0005_auto_20181115_2014'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Trusted_Devices',\n            fields=[\n                ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),\n                ('signature', models.CharField(max_length=255)),",
+        "detail": "mfa.migrations.0006_trusted_devices",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mfa.migrations.0007_auto_20181230_1549",
+        "description": "mfa.migrations.0007_auto_20181230_1549",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0006_trusted_devices'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='Trusted_Devices',\n        ),\n        migrations.AddField(\n            model_name='user_keys',",
+        "detail": "mfa.migrations.0007_auto_20181230_1549",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mfa.migrations.0008_user_keys_last_used",
+        "description": "mfa.migrations.0008_user_keys_last_used",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0007_auto_20181230_1549'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user_keys',\n            name='last_used',\n            field=models.DateTimeField(default=None, null=True, blank=True),\n        ),",
+        "detail": "mfa.migrations.0008_user_keys_last_used",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mfa.migrations.0009_user_keys_owned_by_enterprise",
+        "description": "mfa.migrations.0009_user_keys_owned_by_enterprise",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0008_user_keys_last_used'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user_keys',\n            name='owned_by_enterprise',\n            field=models.NullBooleanField(default=None),\n        ),",
+        "detail": "mfa.migrations.0009_user_keys_owned_by_enterprise",
+        "documentation": {}
+    },
+    {
+        "label": "update_owned_by_enterprise",
+        "kind": 2,
+        "importPath": "mfa.migrations.0009_user_keys_owned_by_enterprise",
+        "description": "mfa.migrations.0009_user_keys_owned_by_enterprise",
+        "peekOfCode": "def update_owned_by_enterprise(apps, schema_editor):\n    user_keys = apps.get_model('mfa', 'user_keys')\n    user_keys.objects.filter(key_type='FIDO2').update(owned_by_enterprise=getattr(settings,\"MFA_OWNED_BY_ENTERPRISE\",False))\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0008_user_keys_last_used'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user_keys',",
+        "detail": "mfa.migrations.0009_user_keys_owned_by_enterprise",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mfa.migrations.0010_auto_20201110_0557",
+        "description": "mfa.migrations.0010_auto_20201110_0557",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0009_user_keys_owned_by_enterprise'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user_keys',\n            name='key_type',\n            field=models.CharField(default='TOTP', max_length=25),\n        ),",
+        "detail": "mfa.migrations.0010_auto_20201110_0557",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mfa.migrations.0011_auto_20210530_0622",
+        "description": "mfa.migrations.0011_auto_20210530_0622",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('mfa', '0010_auto_20201110_0557'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user_keys',\n            name='owned_by_enterprise',\n            field=models.BooleanField(blank=True, default=None, null=True),\n        ),",
+        "detail": "mfa.migrations.0011_auto_20210530_0622",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mfa.migrations.0012_alter_user_keys_id.py",
+        "description": "mfa.migrations.0012_alter_user_keys_id.py",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"mfa\", \"0011_auto_20210530_0622\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"user_keys\",\n            name=\"id\",\n            field=models.BigAutoField(\n                auto_created=True, primary_key=True, serialize=False, verbose_name=\"ID\"",
+        "detail": "mfa.migrations.0012_alter_user_keys_id.py",
+        "documentation": {}
+    },
+    {
+        "label": "send",
+        "kind": 2,
+        "importPath": "mfa.Common",
+        "description": "mfa.Common",
+        "peekOfCode": "def send(to,subject,body):\n    from_email_address = settings.EMAIL_HOST_USER\n    if '@' not in from_email_address:\n        from_email_address = settings.DEFAULT_FROM_EMAIL\n    From = \"%s <%s>\" % (settings.EMAIL_FROM, from_email_address)\n    email = EmailMessage(subject,body,From,to)\n    email.content_subtype = \"html\"\n    return email.send(False)\ndef get_redirect_url():\n    return {\"redirect_html\": reverse(getattr(settings, 'MFA_REDIRECT_AFTER_REGISTRATION', 'mfa_home')),",
+        "detail": "mfa.Common",
+        "documentation": {}
+    },
+    {
+        "label": "get_redirect_url",
+        "kind": 2,
+        "importPath": "mfa.Common",
+        "description": "mfa.Common",
+        "peekOfCode": "def get_redirect_url():\n    return {\"redirect_html\": reverse(getattr(settings, 'MFA_REDIRECT_AFTER_REGISTRATION', 'mfa_home')),\n            \"reg_success_msg\":getattr(settings,\"MFA_SUCCESS_REGISTRATION_MSG\")}",
+        "detail": "mfa.Common",
+        "documentation": {}
+    },
+    {
+        "label": "sendEmail",
+        "kind": 2,
+        "importPath": "mfa.Email",
+        "description": "mfa.Email",
+        "peekOfCode": "def sendEmail(request,username,secret):\n    \"\"\"Send Email to the user after rendering `mfa_email_token_template`\"\"\"\n    from django.contrib.auth import get_user_model\n    User = get_user_model()\n    key = getattr(User, 'USERNAME_FIELD', 'username')\n    kwargs = {key: username}\n    user = User.objects.get(**kwargs)\n    res=render(request,\"mfa_email_token_template.html\",{\"request\":request,\"user\":user,'otp':secret})\n    return send([user.email],\"OTP\", res.content.decode())\n@never_cache",
+        "detail": "mfa.Email",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "mfa.Email",
+        "description": "mfa.Email",
+        "peekOfCode": "def start(request):\n    \"\"\"Start adding email as a 2nd factor\"\"\"\n    context = csrf(request)\n    if request.method == \"POST\":\n        if request.session[\"email_secret\"] == request.POST[\"otp\"]:  #if successful\n            uk=User_Keys()\n            uk.username=request.user.username\n            uk.key_type=\"Email\"\n            uk.enabled=1\n            uk.save()",
+        "detail": "mfa.Email",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 2,
+        "importPath": "mfa.Email",
+        "description": "mfa.Email",
+        "peekOfCode": "def auth(request):\n    \"\"\"Authenticating the user by email.\"\"\"\n    context=csrf(request)\n    if request.method==\"POST\":\n        if request.session[\"email_secret\"]==request.POST[\"otp\"].strip():\n            uk = User_Keys.objects.get(username=request.session[\"base_username\"], key_type=\"Email\")\n            mfa = {\"verified\": True, \"method\": \"Email\",\"id\":uk.id}\n            if getattr(settings, \"MFA_RECHECK\", False):\n                mfa[\"next_check\"] = datetime.datetime.timestamp(datetime.datetime.now() + datetime.timedelta(\n                    seconds = random.randint(settings.MFA_RECHECK_MIN, settings.MFA_RECHECK_MAX)))",
+        "detail": "mfa.Email",
+        "documentation": {}
+    },
+    {
+        "label": "recheck",
+        "kind": 2,
+        "importPath": "mfa.FIDO2",
+        "description": "mfa.FIDO2",
+        "peekOfCode": "def recheck(request):\n    \"\"\"Starts FIDO2 recheck\"\"\"\n    context = csrf(request)\n    context[\"mode\"] = \"recheck\"\n    request.session[\"mfa_recheck\"] = True\n    return render(request, \"FIDO2/recheck.html\", context)\ndef getServer():\n    \"\"\"Get Server Info from settings and returns a Fido2Server\"\"\"\n    rp = PublicKeyCredentialRpEntity(id=settings.FIDO_SERVER_ID, name=settings.FIDO_SERVER_NAME)\n    return Fido2Server(rp)",
+        "detail": "mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "getServer",
+        "kind": 2,
+        "importPath": "mfa.FIDO2",
+        "description": "mfa.FIDO2",
+        "peekOfCode": "def getServer():\n    \"\"\"Get Server Info from settings and returns a Fido2Server\"\"\"\n    rp = PublicKeyCredentialRpEntity(id=settings.FIDO_SERVER_ID, name=settings.FIDO_SERVER_NAME)\n    return Fido2Server(rp)\ndef begin_registeration(request):\n    \"\"\"Starts registering a new FIDO Device, called from API\"\"\"\n    server = getServer()\n    registration_data, state = server.register_begin({\n        u'id': request.user.username.encode(\"utf8\"),\n        u'name': (request.user.first_name + \" \" + request.user.last_name),",
+        "detail": "mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "begin_registeration",
+        "kind": 2,
+        "importPath": "mfa.FIDO2",
+        "description": "mfa.FIDO2",
+        "peekOfCode": "def begin_registeration(request):\n    \"\"\"Starts registering a new FIDO Device, called from API\"\"\"\n    server = getServer()\n    registration_data, state = server.register_begin({\n        u'id': request.user.username.encode(\"utf8\"),\n        u'name': (request.user.first_name + \" \" + request.user.last_name),\n        u'displayName': request.user.username,\n    }, getUserCredentials(request.user.username))\n    request.session['fido_state'] = state\n    return HttpResponse(cbor.encode(registration_data), content_type = 'application/octet-stream')",
+        "detail": "mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "complete_reg",
+        "kind": 2,
+        "importPath": "mfa.FIDO2",
+        "description": "mfa.FIDO2",
+        "peekOfCode": "def complete_reg(request):\n    \"\"\"Completes the registeration, called by API\"\"\"\n    try:\n        if not \"fido_state\" in request.session:\n            return JsonResponse({'status': 'ERR', \"message\": \"FIDO Status can't be found, please try again\"})\n        data = cbor.decode(request.body)\n        client_data = CollectedClientData(data['clientDataJSON'])\n        att_obj = AttestationObject((data['attestationObject']))\n        server = getServer()\n        auth_data = server.register_complete(",
+        "detail": "mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "mfa.FIDO2",
+        "description": "mfa.FIDO2",
+        "peekOfCode": "def start(request):\n    \"\"\"Start Registration a new FIDO Token\"\"\"\n    context = csrf(request)\n    context.update(get_redirect_url())\n    context[\"method\"] = {\"name\":getattr(settings,\"MFA_RENAME_METHODS\",{}).get(\"FIDO2\",\"FIDO2 Security Key\")}\n    context[\"RECOVERY_METHOD\"]=getattr(settings,\"MFA_RENAME_METHODS\",{}).get(\"RECOVERY\",\"Recovery codes\")\n    return render(request, \"FIDO2/Add.html\", context)\ndef getUserCredentials(username):\n    credentials = []\n    for uk in User_Keys.objects.filter(username = username, key_type = \"FIDO2\"):",
+        "detail": "mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "getUserCredentials",
+        "kind": 2,
+        "importPath": "mfa.FIDO2",
+        "description": "mfa.FIDO2",
+        "peekOfCode": "def getUserCredentials(username):\n    credentials = []\n    for uk in User_Keys.objects.filter(username = username, key_type = \"FIDO2\"):\n        credentials.append(AttestedCredentialData(websafe_decode(uk.properties[\"device\"])))\n    return credentials\ndef auth(request):\n    context = csrf(request)\n    return render(request, \"FIDO2/Auth.html\", context)\ndef authenticate_begin(request):\n    server = getServer()",
+        "detail": "mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 2,
+        "importPath": "mfa.FIDO2",
+        "description": "mfa.FIDO2",
+        "peekOfCode": "def auth(request):\n    context = csrf(request)\n    return render(request, \"FIDO2/Auth.html\", context)\ndef authenticate_begin(request):\n    server = getServer()\n    credentials = getUserCredentials(request.session.get(\"base_username\", request.user.username))\n    auth_data, state = server.authenticate_begin(credentials)\n    request.session['fido_state'] = state\n    return HttpResponse(cbor.encode(auth_data), content_type = \"application/octet-stream\")\n@csrf_exempt",
+        "detail": "mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_begin",
+        "kind": 2,
+        "importPath": "mfa.FIDO2",
+        "description": "mfa.FIDO2",
+        "peekOfCode": "def authenticate_begin(request):\n    server = getServer()\n    credentials = getUserCredentials(request.session.get(\"base_username\", request.user.username))\n    auth_data, state = server.authenticate_begin(credentials)\n    request.session['fido_state'] = state\n    return HttpResponse(cbor.encode(auth_data), content_type = \"application/octet-stream\")\n@csrf_exempt\ndef authenticate_complete(request):\n    try:\n        credentials = []",
+        "detail": "mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_complete",
+        "kind": 2,
+        "importPath": "mfa.FIDO2",
+        "description": "mfa.FIDO2",
+        "peekOfCode": "def authenticate_complete(request):\n    try:\n        credentials = []\n        username = request.session.get(\"base_username\", request.user.username)\n        server = getServer()\n        credentials = getUserCredentials(username)\n        data = cbor.decode(request.body)\n        credential_id = data['credentialId']\n        client_data = CollectedClientData(data['clientDataJSON'])\n        auth_data = AuthenticatorData(data['authenticatorData'])",
+        "detail": "mfa.FIDO2",
+        "documentation": {}
+    },
+    {
+        "label": "id_generator",
+        "kind": 2,
+        "importPath": "mfa.TrustedDevice",
+        "description": "mfa.TrustedDevice",
+        "peekOfCode": "def id_generator(size=6, chars=string.ascii_uppercase + string.digits):\n    x=''.join(random.choice(chars) for _ in range(size))\n    if not User_Keys.objects.filter(properties__icontains='\"key\": \"%s\"'%x).exists(): return x\n    else: return id_generator(size,chars)\ndef getUserAgent(request):\n    id=id=request.session.get(\"td_id\",None)\n    if id:\n        tk=User_Keys.objects.get(id=id)\n        if tk.properties.get(\"user_agent\",\"\")!=\"\":\n            ua = user_agents.parse(tk.properties[\"user_agent\"])",
+        "detail": "mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "getUserAgent",
+        "kind": 2,
+        "importPath": "mfa.TrustedDevice",
+        "description": "mfa.TrustedDevice",
+        "peekOfCode": "def getUserAgent(request):\n    id=id=request.session.get(\"td_id\",None)\n    if id:\n        tk=User_Keys.objects.get(id=id)\n        if tk.properties.get(\"user_agent\",\"\")!=\"\":\n            ua = user_agents.parse(tk.properties[\"user_agent\"])\n            res = render(None, \"TrustedDevices/user-agent.html\", context={\"ua\":ua})\n            return HttpResponse(res)\n    return HttpResponse(\"\")\ndef trust_device(request):",
+        "detail": "mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "trust_device",
+        "kind": 2,
+        "importPath": "mfa.TrustedDevice",
+        "description": "mfa.TrustedDevice",
+        "peekOfCode": "def trust_device(request):\n    tk = User_Keys.objects.get(id=request.session[\"td_id\"])\n    tk.properties[\"status\"]=\"trusted\"\n    tk.save()\n    del request.session[\"td_id\"]\n    return HttpResponse(\"OK\")\ndef checkTrusted(request):\n    res = \"\"\n    id=request.session.get(\"td_id\",\"\")\n    if id!=\"\":",
+        "detail": "mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "checkTrusted",
+        "kind": 2,
+        "importPath": "mfa.TrustedDevice",
+        "description": "mfa.TrustedDevice",
+        "peekOfCode": "def checkTrusted(request):\n    res = \"\"\n    id=request.session.get(\"td_id\",\"\")\n    if id!=\"\":\n        try:\n            tk = User_Keys.objects.get(id=id)\n            if tk.properties[\"status\"] == \"trusted\": res = \"OK\"\n        except:\n            pass\n    return HttpResponse(res)",
+        "detail": "mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "getCookie",
+        "kind": 2,
+        "importPath": "mfa.TrustedDevice",
+        "description": "mfa.TrustedDevice",
+        "peekOfCode": "def getCookie(request):\n    tk = User_Keys.objects.get(id=request.session[\"td_id\"])\n    if tk.properties[\"status\"] == \"trusted\":\n        context={\"added\":True}\n        response = render(request,\"TrustedDevices/Done.html\", context)\n        from datetime import datetime, timedelta\n        expires = datetime.now() + timedelta(days=180)\n        tk.expires=expires\n        tk.save()\n        response.set_cookie(\"deviceid\", tk.properties[\"signature\"], expires=expires)",
+        "detail": "mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "mfa.TrustedDevice",
+        "description": "mfa.TrustedDevice",
+        "peekOfCode": "def add(request):\n    context=csrf(request)\n    if request.method==\"GET\":\n        context.update({\"username\":request.GET.get('u',''),\"key\":request.GET.get('k','')})\n        return render(request,\"TrustedDevices/Add.html\",context)\n    else:\n        key=request.POST[\"key\"].replace(\"-\",\"\").replace(\" \",\"\").upper()\n        context[\"username\"] = request.POST[\"username\"]\n        context[\"key\"] = request.POST[\"key\"]\n        trusted_keys=User_Keys.objects.filter(username=request.POST[\"username\"],properties__icontains='\"key\": \"%s\"'%key)",
+        "detail": "mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "mfa.TrustedDevice",
+        "description": "mfa.TrustedDevice",
+        "peekOfCode": "def start(request):\n    if User_Keys.objects.filter(username=request.user.username,key_type=\"Trusted Device\").count()>= 2:\n        return render(request,\"TrustedDevices/start.html\",{\"not_allowed\":True})\n    td=None\n    if not request.session.get(\"td_id\",None):\n        td=User_Keys()\n        td.username=request.user.username\n        td.properties={\"key\":id_generator(),\"status\":\"adding\"}\n        td.key_type=\"Trusted Device\"\n        td.save()",
+        "detail": "mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "kind": 2,
+        "importPath": "mfa.TrustedDevice",
+        "description": "mfa.TrustedDevice",
+        "peekOfCode": "def send_email(request):\n    body=render(request,\"TrustedDevices/email.html\",{}).content\n    from .Common import send\n    e=request.user.email\n    if e==\"\":\n        e=request.session.get(\"user\",{}).get(\"email\",\"\")\n    if e==\"\":\n        res = \"User has no email on the system.\"\n    elif send([e],\"Add Trusted Device Link\",body):\n        res=\"Sent Successfully\"",
+        "detail": "mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "verify",
+        "kind": 2,
+        "importPath": "mfa.TrustedDevice",
+        "description": "mfa.TrustedDevice",
+        "peekOfCode": "def verify(request):\n    if request.COOKIES.get('deviceid',None):\n        from jose import jwt\n        json= jwt.decode(request.COOKIES.get('deviceid'),settings.SECRET_KEY)\n        if json[\"username\"].lower()== request.session['base_username'].lower():\n            try:\n                uk = User_Keys.objects.get(username=request.POST[\"username\"].lower(), properties__icontains='\"key\": \"%s\"'%json[\"key\"])\n                if uk.enabled and uk.properties[\"status\"] == \"trusted\":\n                    uk.last_used=timezone.now()\n                    uk.save()",
+        "detail": "mfa.TrustedDevice",
+        "documentation": {}
+    },
+    {
+        "label": "recheck",
+        "kind": 2,
+        "importPath": "mfa.U2F",
+        "description": "mfa.U2F",
+        "peekOfCode": "def recheck(request):\n    context = csrf(request)\n    context[\"mode\"]=\"recheck\"\n    s = sign(request.user.username)\n    request.session[\"_u2f_challenge_\"] = s[0]\n    context[\"token\"] = s[1]\n    request.session[\"mfa_recheck\"]=True\n    return render(request,\"U2F/recheck.html\", context)\ndef process_recheck(request):\n    x=validate(request,request.user.username)",
+        "detail": "mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "process_recheck",
+        "kind": 2,
+        "importPath": "mfa.U2F",
+        "description": "mfa.U2F",
+        "peekOfCode": "def process_recheck(request):\n    x=validate(request,request.user.username)\n    if x==True:\n        import time\n        request.session[\"mfa\"][\"rechecked_at\"] = time.time()\n        return HttpResponse(simplejson.dumps({\"recheck\":True}),content_type=\"application/json\")\n    return x\ndef check_errors(request, data):\n    if \"errorCode\" in data:\n        if data[\"errorCode\"] == 0: return True",
+        "detail": "mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "check_errors",
+        "kind": 2,
+        "importPath": "mfa.U2F",
+        "description": "mfa.U2F",
+        "peekOfCode": "def check_errors(request, data):\n    if \"errorCode\" in data:\n        if data[\"errorCode\"] == 0: return True\n        if data[\"errorCode\"] == 4:\n            return HttpResponse(\"Invalid Security Key\")\n        if data[\"errorCode\"] == 1:\n            return auth(request)\n    return True\ndef validate(request,username):\n    import datetime, random",
+        "detail": "mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "validate",
+        "kind": 2,
+        "importPath": "mfa.U2F",
+        "description": "mfa.U2F",
+        "peekOfCode": "def validate(request,username):\n    import datetime, random\n    data = simplejson.loads(request.POST[\"response\"])\n    res= check_errors(request,data)\n    if res!=True:\n        return res\n    challenge = request.session.pop('_u2f_challenge_')\n    device, c, t = complete_authentication(challenge, data, [settings.U2F_APPID])\n    try:\n        key=User_Keys.objects.get(username=username,properties__icontains='\"publicKey\": \"%s\"'%device[\"publicKey\"])",
+        "detail": "mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 2,
+        "importPath": "mfa.U2F",
+        "description": "mfa.U2F",
+        "peekOfCode": "def auth(request):\n    context=csrf(request)\n    s=sign(request.session[\"base_username\"])\n    request.session[\"_u2f_challenge_\"]=s[0]\n    context[\"token\"]=s[1]\n    context[\"method\"] = {\"name\": getattr(settings, \"MFA_RENAME_METHODS\", {}).get(\"U2F\", \"Classical Security Key\")}\n    return render(request,\"U2F/Auth.html\",context)\ndef start(request):\n    enroll = begin_registration(settings.U2F_APPID, [])\n    request.session['_u2f_enroll_'] = enroll.json",
+        "detail": "mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "mfa.U2F",
+        "description": "mfa.U2F",
+        "peekOfCode": "def start(request):\n    enroll = begin_registration(settings.U2F_APPID, [])\n    request.session['_u2f_enroll_'] = enroll.json\n    context=csrf(request)\n    context[\"token\"]=simplejson.dumps(enroll.data_for_client)\n    context.update(get_redirect_url())\n    context[\"method\"] = {\"name\": getattr(settings, \"MFA_RENAME_METHODS\", {}).get(\"U2F\", \"Classical Security Key\")}\n    context[\"RECOVERY_METHOD\"] = getattr(settings, \"MFA_RENAME_METHODS\", {}).get(\"RECOVERY\", \"Recovery codes\")\n    return render(request,\"U2F/Add.html\",context)\ndef bind(request):",
+        "detail": "mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "bind",
+        "kind": 2,
+        "importPath": "mfa.U2F",
+        "description": "mfa.U2F",
+        "peekOfCode": "def bind(request):\n    import hashlib\n    enroll = request.session['_u2f_enroll_']\n    data=simplejson.loads(request.POST[\"response\"])\n    device, cert = complete_registration(enroll, data, [settings.U2F_APPID])\n    cert = x509.load_der_x509_certificate(cert, default_backend())\n    cert_hash=hashlib.md5(cert.public_bytes(Encoding.PEM)).hexdigest()\n    q=User_Keys.objects.filter(key_type=\"U2F\", properties__icontains= cert_hash)\n    if q.exists():\n        return HttpResponse(\"This key is registered before, it can't be registered again.\")",
+        "detail": "mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "sign",
+        "kind": 2,
+        "importPath": "mfa.U2F",
+        "description": "mfa.U2F",
+        "peekOfCode": "def sign(username):\n    u2f_devices=[d.properties[\"device\"] for d in User_Keys.objects.filter(username=username,key_type=\"U2F\")]\n    challenge = begin_authentication(settings.U2F_APPID, u2f_devices)\n    return [challenge.json,simplejson.dumps(challenge.data_for_client)]\ndef verify(request):\n    x= validate(request,request.session[\"base_username\"])\n    if x==True:\n        return login(request)\n    else: return x",
+        "detail": "mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "verify",
+        "kind": 2,
+        "importPath": "mfa.U2F",
+        "description": "mfa.U2F",
+        "peekOfCode": "def verify(request):\n    x= validate(request,request.session[\"base_username\"])\n    if x==True:\n        return login(request)\n    else: return x",
+        "detail": "mfa.U2F",
+        "documentation": {}
+    },
+    {
+        "label": "myAppNameConfig",
+        "kind": 6,
+        "importPath": "mfa.apps",
+        "description": "mfa.apps",
+        "peekOfCode": "class myAppNameConfig(AppConfig):\n    name = 'mfa'\n    verbose_name = 'A Much Better Name'",
+        "detail": "mfa.apps",
+        "documentation": {}
+    },
+    {
+        "label": "has_mfa",
+        "kind": 2,
+        "importPath": "mfa.helpers",
+        "description": "mfa.helpers",
+        "peekOfCode": "def has_mfa(request,username):\n    if User_Keys.objects.filter(username=username,enabled=1).count()>0:\n        return verify(request, username)\n    return False\ndef is_mfa(request,ignore_methods=[]):\n    if request.session.get(\"mfa\",{}).get(\"verified\",False):\n        if not request.session.get(\"mfa\",{}).get(\"method\",None) in ignore_methods:\n            return True\n    return False\ndef recheck(request):",
+        "detail": "mfa.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "is_mfa",
+        "kind": 2,
+        "importPath": "mfa.helpers",
+        "description": "mfa.helpers",
+        "peekOfCode": "def is_mfa(request,ignore_methods=[]):\n    if request.session.get(\"mfa\",{}).get(\"verified\",False):\n        if not request.session.get(\"mfa\",{}).get(\"method\",None) in ignore_methods:\n            return True\n    return False\ndef recheck(request):\n    method=request.session.get(\"mfa\",{}).get(\"method\",None)\n    if not method:\n        return HttpResponse(simplejson.dumps({\"res\":False}),content_type=\"application/json\")\n    if method==\"Trusted Device\":",
+        "detail": "mfa.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "recheck",
+        "kind": 2,
+        "importPath": "mfa.helpers",
+        "description": "mfa.helpers",
+        "peekOfCode": "def recheck(request):\n    method=request.session.get(\"mfa\",{}).get(\"method\",None)\n    if not method:\n        return HttpResponse(simplejson.dumps({\"res\":False}),content_type=\"application/json\")\n    if method==\"Trusted Device\":\n        return HttpResponse(simplejson.dumps({\"res\":TrustedDevice.verify(request)}),content_type=\"application/json\")\n    elif method==\"U2F\":\n        return HttpResponse(simplejson.dumps({\"html\": U2F.recheck(request).content}), content_type=\"application/json\")\n    elif method == \"FIDO2\":\n        return HttpResponse(simplejson.dumps({\"html\": FIDO2.recheck(request).content}), content_type=\"application/json\")",
+        "detail": "mfa.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "process",
+        "kind": 2,
+        "importPath": "mfa.middleware",
+        "description": "mfa.middleware",
+        "peekOfCode": "def process(request):\n    next_check=request.session.get('mfa',{}).get(\"next_check\",False)\n    if not next_check: return None\n    now=int(time.time())\n    if now >= next_check:\n        method=request.session[\"mfa\"][\"method\"]\n        path = request.META[\"PATH_INFO\"]\n        return HttpResponseRedirect(reverse(method+\"_auth\")+\"?next=%s\"%(settings.BASE_URL + path).replace(\"//\", \"/\"))\n    return None",
+        "detail": "mfa.middleware",
+        "documentation": {}
+    },
+    {
+        "label": "User_Keys",
+        "kind": 6,
+        "importPath": "mfa.models",
+        "description": "mfa.models",
+        "peekOfCode": "class User_Keys(models.Model):\n    username=models.CharField(max_length = 50)\n    properties=JSONField(null = True)\n    added_on=models.DateTimeField(auto_now_add = True)\n    key_type=models.CharField(max_length = 25,default = \"TOTP\")\n    enabled=models.BooleanField(default=True)\n    expires=models.DateTimeField(null=True,default=None,blank=True)\n    last_used=models.DateTimeField(null=True,default=None,blank=True)\n    owned_by_enterprise=models.BooleanField(default=None,null=True,blank=True)\n    def save(self, force_insert=False, force_update=False, using=None, update_fields=None):",
+        "detail": "mfa.models",
+        "documentation": {}
+    },
+    {
+        "label": "Hash",
+        "kind": 6,
+        "importPath": "mfa.recovery",
+        "description": "mfa.recovery",
+        "peekOfCode": "class Hash(PBKDF2PasswordHasher):\n    algorithm = 'pbkdf2_sha256_custom'\n    iterations = getattr(settings,\"RECOVERY_ITERATION\",1)\ndef delTokens(request):\n    #Only when all MFA have been deactivated, or to generate new !\n    #We iterate only to clean if any error happend and multiple entry of RECOVERY created for one user\n    for key in User_Keys.objects.filter(username=request.user.username, key_type = \"RECOVERY\"):\n        if key.username == request.user.username:\n            key.delete()\ndef randomGen(n):",
+        "detail": "mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "delTokens",
+        "kind": 2,
+        "importPath": "mfa.recovery",
+        "description": "mfa.recovery",
+        "peekOfCode": "def delTokens(request):\n    #Only when all MFA have been deactivated, or to generate new !\n    #We iterate only to clean if any error happend and multiple entry of RECOVERY created for one user\n    for key in User_Keys.objects.filter(username=request.user.username, key_type = \"RECOVERY\"):\n        if key.username == request.user.username:\n            key.delete()\ndef randomGen(n):\n    return ''.join(random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits) for _ in range(n))\n@never_cache\ndef genTokens(request):",
+        "detail": "mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "randomGen",
+        "kind": 2,
+        "importPath": "mfa.recovery",
+        "description": "mfa.recovery",
+        "peekOfCode": "def randomGen(n):\n    return ''.join(random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits) for _ in range(n))\n@never_cache\ndef genTokens(request):\n    #Delete old ones\n    delTokens(request)\n    #Then generate new one\n    salt = randomGen(15)\n    hashedKeys = []\n    clearKeys = []",
+        "detail": "mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "genTokens",
+        "kind": 2,
+        "importPath": "mfa.recovery",
+        "description": "mfa.recovery",
+        "peekOfCode": "def genTokens(request):\n    #Delete old ones\n    delTokens(request)\n    #Then generate new one\n    salt = randomGen(15)\n    hashedKeys = []\n    clearKeys = []\n    for i in range(5):\n            token = randomGen(5) + \"-\" + randomGen(5)\n            hashedToken = make_password(token, salt, 'pbkdf2_sha256_custom')",
+        "detail": "mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "verify_login",
+        "kind": 2,
+        "importPath": "mfa.recovery",
+        "description": "mfa.recovery",
+        "peekOfCode": "def verify_login(request, username, token):\n    for key in User_Keys.objects.filter(username=username, key_type = \"RECOVERY\"):\n        secret_keys = key.properties[\"secret_keys\"]\n        salt = key.properties[\"salt\"]\n        hashedToken = make_password(token, salt, \"pbkdf2_sha256_custom\")\n        for i,token in enumerate(secret_keys):\n            if hashedToken == token:\n                secret_keys.pop(i)\n                key.properties[\"secret_keys\"] = secret_keys\n                key.last_used= timezone.now()",
+        "detail": "mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "getTokenLeft",
+        "kind": 2,
+        "importPath": "mfa.recovery",
+        "description": "mfa.recovery",
+        "peekOfCode": "def getTokenLeft(request):\n    uk = User_Keys.objects.filter(username=request.user.username, key_type = \"RECOVERY\")\n    keyLeft=0\n    for key in uk:\n        keyLeft += len(key.properties[\"secret_keys\"])\n    return HttpResponse(simplejson.dumps({\"left\":keyLeft}))\ndef recheck(request):\n    context = csrf(request)\n    context[\"mode\"]=\"recheck\"\n    if request.method == \"POST\":",
+        "detail": "mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "recheck",
+        "kind": 2,
+        "importPath": "mfa.recovery",
+        "description": "mfa.recovery",
+        "peekOfCode": "def recheck(request):\n    context = csrf(request)\n    context[\"mode\"]=\"recheck\"\n    if request.method == \"POST\":\n        if verify_login(request,request.user.username, token=request.POST[\"recovery\"])[0]:\n            import time\n            request.session[\"mfa\"][\"rechecked_at\"] = time.time()\n            return HttpResponse(simplejson.dumps({\"recheck\": True}), content_type=\"application/json\")\n        else:\n            return HttpResponse(simplejson.dumps({\"recheck\": False}), content_type=\"application/json\")",
+        "detail": "mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 2,
+        "importPath": "mfa.recovery",
+        "description": "mfa.recovery",
+        "peekOfCode": "def auth(request):\n    from .views import login\n    context=csrf(request)\n    if request.method==\"POST\":\n        tokenLength = len(request.POST[\"recovery\"])\n        if tokenLength == 11 and \"RECOVERY\" not in settings.MFA_UNALLOWED_METHODS:\n            #Backup code check\n            resBackup=verify_login(request, request.session[\"base_username\"], token=request.POST[\"recovery\"])\n            if resBackup[0]:\n                mfa = {\"verified\": True, \"method\": \"RECOVERY\",\"id\":resBackup[1], \"lastBackup\":resBackup[2]}",
+        "detail": "mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "mfa.recovery",
+        "description": "mfa.recovery",
+        "peekOfCode": "def start(request):\n    \"\"\"Start Managing recovery tokens\"\"\"\n    context = get_redirect_url()\n    if \"mfa_reg\" in request.session:\n        context[\"mfa_redirect\"] = request.session[\"mfa_reg\"][\"name\"]\n    return render(request,\"RECOVERY/Add.html\",context)",
+        "detail": "mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "USER_FRIENDLY_NAME",
+        "kind": 5,
+        "importPath": "mfa.recovery",
+        "description": "mfa.recovery",
+        "peekOfCode": "USER_FRIENDLY_NAME = \"Recovery Codes\"\nclass Hash(PBKDF2PasswordHasher):\n    algorithm = 'pbkdf2_sha256_custom'\n    iterations = getattr(settings,\"RECOVERY_ITERATION\",1)\ndef delTokens(request):\n    #Only when all MFA have been deactivated, or to generate new !\n    #We iterate only to clean if any error happend and multiple entry of RECOVERY created for one user\n    for key in User_Keys.objects.filter(username=request.user.username, key_type = \"RECOVERY\"):\n        if key.username == request.user.username:\n            key.delete()",
+        "detail": "mfa.recovery",
+        "documentation": {}
+    },
+    {
+        "label": "verify_login",
+        "kind": 2,
+        "importPath": "mfa.totp",
+        "description": "mfa.totp",
+        "peekOfCode": "def verify_login(request,username,token):\n    for key in User_Keys.objects.filter(username=username,key_type = \"TOTP\"):\n        totp = pyotp.TOTP(key.properties[\"secret_key\"])\n        if  totp.verify(token,valid_window = 30):\n            key.last_used=timezone.now()\n            key.save()\n            return [True,key.id]\n    return [False]\ndef recheck(request):\n    context = csrf(request)",
+        "detail": "mfa.totp",
+        "documentation": {}
+    },
+    {
+        "label": "recheck",
+        "kind": 2,
+        "importPath": "mfa.totp",
+        "description": "mfa.totp",
+        "peekOfCode": "def recheck(request):\n    context = csrf(request)\n    context[\"mode\"]=\"recheck\"\n    if request.method == \"POST\":\n        if verify_login(request,request.user.username, token=request.POST[\"otp\"])[0]:\n            import time\n            request.session[\"mfa\"][\"rechecked_at\"] = time.time()\n            return HttpResponse(simplejson.dumps({\"recheck\": True}), content_type=\"application/json\")\n        else:\n            return HttpResponse(simplejson.dumps({\"recheck\": False}), content_type=\"application/json\")",
+        "detail": "mfa.totp",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 2,
+        "importPath": "mfa.totp",
+        "description": "mfa.totp",
+        "peekOfCode": "def auth(request):\n    context=csrf(request)\n    if request.method==\"POST\":\n        tokenLength = len(request.POST[\"otp\"])\n        if tokenLength == 6:\n            #TOTO code check\n            res=verify_login(request,request.session[\"base_username\"],token = request.POST[\"otp\"])\n            if res[0]:\n                mfa = {\"verified\": True, \"method\": \"TOTP\",\"id\":res[1]}\n                if getattr(settings, \"MFA_RECHECK\", False):",
+        "detail": "mfa.totp",
+        "documentation": {}
+    },
+    {
+        "label": "getToken",
+        "kind": 2,
+        "importPath": "mfa.totp",
+        "description": "mfa.totp",
+        "peekOfCode": "def getToken(request):\n    secret_key=pyotp.random_base32()\n    totp = pyotp.TOTP(secret_key)\n    request.session[\"new_mfa_answer\"]=totp.now()\n    return HttpResponse(simplejson.dumps({\"qr\":pyotp.totp.TOTP(secret_key).provisioning_uri(str(request.user.username), issuer_name = settings.TOKEN_ISSUER_NAME),\n                         \"secret_key\": secret_key}))\ndef verify(request):\n    answer=request.GET[\"answer\"]\n    secret_key=request.GET[\"key\"]\n    totp = pyotp.TOTP(secret_key)",
+        "detail": "mfa.totp",
+        "documentation": {}
+    },
+    {
+        "label": "verify",
+        "kind": 2,
+        "importPath": "mfa.totp",
+        "description": "mfa.totp",
+        "peekOfCode": "def verify(request):\n    answer=request.GET[\"answer\"]\n    secret_key=request.GET[\"key\"]\n    totp = pyotp.TOTP(secret_key)\n    if totp.verify(answer,valid_window = 60):\n        uk=User_Keys()\n        uk.username=request.user.username\n        uk.properties={\"secret_key\":secret_key}\n        #uk.name=\"Authenticatior #%s\"%User_Keys.objects.filter(username=user.username,type=\"TOTP\")\n        uk.key_type=\"TOTP\"",
+        "detail": "mfa.totp",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "mfa.totp",
+        "description": "mfa.totp",
+        "peekOfCode": "def start(request):\n    \"\"\"Start Adding Time One Time Password (TOTP)\"\"\"\n    context = get_redirect_url()\n    context[\"RECOVERY_METHOD\"] = getattr(settings, \"MFA_RENAME_METHODS\", {}).get(\"RECOVERY\", \"Recovery codes\")\n    context[\"method\"] = {\"name\":getattr(settings,\"MFA_RENAME_METHODS\",{}).get(\"TOTP\",\"Authenticator\")}\n    return render(request,\"TOTP/Add.html\",context)",
+        "detail": "mfa.totp",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "mfa.urls",
+        "description": "mfa.urls",
+        "peekOfCode": "urlpatterns = [\n    url(r'totp/start/', totp.start , name=\"start_new_otop\"),\n    url(r'totp/getToken', totp.getToken , name=\"get_new_otop\"),\n    url(r'totp/verify', totp.verify, name=\"verify_otop\"),\n    url(r'totp/auth', totp.auth, name=\"totp_auth\"),\n    url(r'totp/recheck', totp.recheck, name=\"totp_recheck\"),\n    url(r'recovery/start', recovery.start, name=\"manage_recovery_codes\"),\n    url(r'recovery/getTokenLeft', recovery.getTokenLeft, name=\"get_recovery_token_left\"),\n    url(r'recovery/genTokens', recovery.genTokens, name=\"regen_recovery_tokens\"),\n    url(r'recovery/auth', recovery.auth, name=\"recovery_auth\"),",
+        "detail": "mfa.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "mfa.views",
+        "description": "mfa.views",
+        "peekOfCode": "def index(request):\n    keys=[]\n    context={\"keys\":User_Keys.objects.filter(username=request.user.username),\"UNALLOWED_AUTHEN_METHODS\":settings.MFA_UNALLOWED_METHODS\n             ,\"HIDE_DISABLE\":getattr(settings,\"MFA_HIDE_DISABLE\",[]),'RENAME_METHODS':getattr(settings,'MFA_RENAME_METHODS',{})}\n    for k in context[\"keys\"]:\n        k.name = getattr(settings,'MFA_RENAME_METHODS',{}).get(k.key_type,k.key_type)\n        if k.key_type ==\"Trusted Device\":\n            setattr(k,\"device\",parse(k.properties.get(\"user_agent\",\"-----\")))\n        elif k.key_type == \"FIDO2\":\n            setattr(k,\"device\",k.properties.get(\"type\",\"----\"))",
+        "detail": "mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "verify",
+        "kind": 2,
+        "importPath": "mfa.views",
+        "description": "mfa.views",
+        "peekOfCode": "def verify(request,username):\n    request.session[\"base_username\"] = username\n    #request.session[\"base_password\"] = password\n    keys=User_Keys.objects.filter(username=username,enabled=1)\n    methods=list(set([k.key_type for k in keys]))\n    if \"Trusted Device\" in methods and not request.session.get(\"checked_trusted_device\",False):\n        if TrustedDevice.verify(request):\n            return login(request)\n        methods.remove(\"Trusted Device\")\n    request.session[\"mfa_methods\"] = methods",
+        "detail": "mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "show_methods",
+        "kind": 2,
+        "importPath": "mfa.views",
+        "description": "mfa.views",
+        "peekOfCode": "def show_methods(request):\n    return render(request,\"select_mfa_method.html\", {'RENAME_METHODS':getattr(settings,'MFA_RENAME_METHODS',{})})\ndef reset_cookie(request):\n    response=HttpResponseRedirect(settings.LOGIN_URL)\n    response.delete_cookie(\"base_username\")\n    return response\ndef login(request):\n    from django.contrib import auth\n    from django.conf import settings\n    callable_func = __get_callable_function__(settings.MFA_LOGIN_CALLBACK)",
+        "detail": "mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "reset_cookie",
+        "kind": 2,
+        "importPath": "mfa.views",
+        "description": "mfa.views",
+        "peekOfCode": "def reset_cookie(request):\n    response=HttpResponseRedirect(settings.LOGIN_URL)\n    response.delete_cookie(\"base_username\")\n    return response\ndef login(request):\n    from django.contrib import auth\n    from django.conf import settings\n    callable_func = __get_callable_function__(settings.MFA_LOGIN_CALLBACK)\n    return callable_func(request,username=request.session[\"base_username\"])\n@login_required",
+        "detail": "mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "mfa.views",
+        "description": "mfa.views",
+        "peekOfCode": "def login(request):\n    from django.contrib import auth\n    from django.conf import settings\n    callable_func = __get_callable_function__(settings.MFA_LOGIN_CALLBACK)\n    return callable_func(request,username=request.session[\"base_username\"])\n@login_required\ndef delKey(request):\n    key=User_Keys.objects.get(id=request.GET[\"id\"])\n    if key.username == request.user.username:\n        key.delete()",
+        "detail": "mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "delKey",
+        "kind": 2,
+        "importPath": "mfa.views",
+        "description": "mfa.views",
+        "peekOfCode": "def delKey(request):\n    key=User_Keys.objects.get(id=request.GET[\"id\"])\n    if key.username == request.user.username:\n        key.delete()\n        return HttpResponse(\"Deleted Successfully\")\n    else:\n        return HttpResponse(\"Error: You own this token so you can't delete it\")\ndef __get_callable_function__(func_path):\n    import importlib\n    if not '.' in func_path:",
+        "detail": "mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "toggleKey",
+        "kind": 2,
+        "importPath": "mfa.views",
+        "description": "mfa.views",
+        "peekOfCode": "def toggleKey(request):\n    id=request.GET[\"id\"]\n    q=User_Keys.objects.filter(username=request.user.username, id=id)\n    if q.count()==1:\n        key=q[0]\n        if not key.key_type in settings.MFA_HIDE_DISABLE:\n            key.enabled=not key.enabled\n            key.save()\n            return HttpResponse(\"OK\")\n        else:",
+        "detail": "mfa.views",
+        "documentation": {}
+    },
+    {
+        "label": "goto",
+        "kind": 2,
+        "importPath": "mfa.views",
+        "description": "mfa.views",
+        "peekOfCode": "def goto(request,method):\n    return HttpResponseRedirect(reverse(method.lower()+\"_auth\"))",
+        "detail": "mfa.views",
+        "documentation": {}
+    }
+]
